@@ -1,0 +1,1157 @@
+,START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,DURATION
+0,2016-01-01 21:11:00,2016-01-01 21:17:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,0 days 00:06:00
+1,2016-01-02 01:25:00,2016-01-02 01:37:00,Business,Fort Pierce,Fort Pierce,5.0,Missing_val,0 days 00:12:00
+2,2016-01-02 20:25:00,2016-01-02 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,0 days 00:13:00
+3,2016-01-05 17:31:00,2016-01-05 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting,0 days 00:14:00
+4,2016-01-06 14:42:00,2016-01-06 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,0 days 01:07:00
+5,2016-01-06 17:15:00,2016-01-06 17:19:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,0 days 00:04:00
+6,2016-01-06 17:30:00,2016-01-06 17:35:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,0 days 00:05:00
+7,2016-01-07 13:27:00,2016-01-07 13:33:00,Business,Cary,Cary,0.8,Meeting,0 days 00:06:00
+8,2016-01-10 08:05:00,2016-01-10 08:25:00,Business,Cary,Morrisville,8.3,Meeting,0 days 00:20:00
+9,2016-01-10 12:17:00,2016-01-10 12:44:00,Business,Jamaica,New York,16.5,Customer Visit,0 days 00:27:00
+10,2016-01-10 15:08:00,2016-01-10 15:51:00,Business,New York,Queens,10.8,Meeting,0 days 00:43:00
+11,2016-01-10 18:18:00,2016-01-10 18:53:00,Business,Elmhurst,New York,7.5,Meeting,0 days 00:35:00
+12,2016-01-10 19:12:00,2016-01-10 19:32:00,Business,Midtown,East Harlem,6.2,Meeting,0 days 00:20:00
+13,2016-01-11 08:55:00,2016-01-11 09:21:00,Business,East Harlem,NoMad,6.4,Temporary Site,0 days 00:26:00
+14,2016-01-11 11:56:00,2016-01-11 12:03:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,0 days 00:07:00
+15,2016-01-11 13:32:00,2016-01-11 13:46:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,0 days 00:14:00
+16,2016-01-11 14:30:00,2016-01-11 14:43:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,0 days 00:13:00
+17,2016-01-12 12:33:00,2016-01-12 12:49:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,0 days 00:16:00
+18,2016-01-12 12:53:00,2016-01-12 13:09:00,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,0 days 00:16:00
+19,2016-01-12 14:42:00,2016-01-12 14:56:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,0 days 00:14:00
+20,2016-01-12 15:13:00,2016-01-12 15:28:00,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,0 days 00:15:00
+21,2016-01-12 15:42:00,2016-01-12 15:54:00,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,0 days 00:12:00
+22,2016-01-12 16:02:00,2016-01-12 17:00:00,Business,New York,Queens County,15.1,Meeting,0 days 00:58:00
+23,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Downtown,Gulfton,11.2,Meeting,0 days 00:19:19.571428571
+24,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Gulfton,Downtown,11.8,Meeting,0 days 00:19:19.571428571
+25,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Houston,Houston,21.9,Customer Visit,0 days 00:19:19.571428571
+26,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,0 days 00:19:19.571428571
+27,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,8.0,Errand/Supplies,0 days 00:19:19.571428571
+28,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meal/Entertain,0 days 00:19:19.571428571
+29,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,10.4,Meal/Entertain,0 days 00:19:19.571428571
+30,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,4.8,Meal/Entertain,0 days 00:19:19.571428571
+31,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,0 days 00:19:19.571428571
+32,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Lake Wellingborough,7.2,Missing_val,0 days 00:19:19.571428571
+33,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,0 days 00:19:19.571428571
+34,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,17.1,Meeting,0 days 00:19:19.571428571
+35,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Fayetteville Street,Umstead,15.1,Meeting,0 days 00:19:19.571428571
+36,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,40.2,Customer Visit,0 days 00:19:19.571428571
+37,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.6,Errand/Supplies,0 days 00:19:19.571428571
+38,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,2.4,Meal/Entertain,0 days 00:19:19.571428571
+39,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.0,Meal/Entertain,0 days 00:19:19.571428571
+40,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,0 days 00:19:19.571428571
+41,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,0 days 00:19:19.571428571
+42,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,0 days 00:19:19.571428571
+43,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.4,Errand/Supplies,0 days 00:19:19.571428571
+44,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,0.5,Errand/Supplies,0 days 00:19:19.571428571
+45,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.8,Meeting,0 days 00:19:19.571428571
+46,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,18.7,Customer Visit,0 days 00:19:19.571428571
+47,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Fairmont,Meredith Townes,3.4,Customer Visit,0 days 00:19:19.571428571
+48,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Raleigh,2.7,Customer Visit,0 days 00:19:19.571428571
+49,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,12.9,Customer Visit,0 days 00:19:19.571428571
+50,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,19.0,Temporary Site,0 days 00:19:19.571428571
+51,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,0 days 00:19:19.571428571
+52,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,15.7,Meeting,0 days 00:19:19.571428571
+53,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,4.6,Customer Visit,0 days 00:19:19.571428571
+54,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,5.2,Meeting,0 days 00:19:19.571428571
+55,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:19.571428571
+56,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,10.1,Meeting,0 days 00:19:19.571428571
+57,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,5.8,Errand/Supplies,0 days 00:19:19.571428571
+58,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Cary,5.5,Meal/Entertain,0 days 00:19:19.571428571
+59,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,5.7,Errand/Supplies,0 days 00:19:19.571428571
+60,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Cary,5.7,Customer Visit,0 days 00:19:19.571428571
+61,2016-02-01 10:35:00,2016-02-01 11:15:00,Business,Cary,Chapel Hill,19.4,Customer Visit,0 days 00:40:00
+62,2016-02-01 12:10:00,2016-02-01 12:43:00,Business,Chapel Hill,Cary,23.3,Customer Visit,0 days 00:33:00
+63,2016-02-01 12:56:00,2016-02-01 13:07:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,0 days 00:11:00
+64,2016-02-02 13:04:00,2016-02-02 13:23:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,0 days 00:19:00
+65,2016-02-02 13:51:00,2016-02-02 14:06:00,Business,Cary,Cary,6.0,Errand/Supplies,0 days 00:15:00
+66,2016-02-02 14:38:00,2016-02-02 14:42:00,Business,Cary,Cary,1.6,Errand/Supplies,0 days 00:04:00
+67,2016-02-04 08:40:00,2016-02-04 09:01:00,Business,Cary,Morrisville,5.2,Errand/Supplies,0 days 00:21:00
+68,2016-02-04 09:37:00,2016-02-04 10:09:00,Business,Morrisville,Cary,9.7,Meal/Entertain,0 days 00:32:00
+69,2016-02-04 10:26:00,2016-02-04 10:32:00,Business,Cary,Cary,1.6,Meal/Entertain,0 days 00:06:00
+70,2016-02-04 15:59:00,2016-02-04 16:03:00,Business,Cary,Cary,1.1,Meal/Entertain,0 days 00:04:00
+71,2016-02-04 16:35:00,2016-02-04 16:39:00,Business,Cary,Cary,1.6,Meal/Entertain,0 days 00:04:00
+72,2016-02-04 18:04:00,2016-02-04 18:31:00,Business,Whitebridge,Macgregor Downs,9.0,Meeting,0 days 00:27:00
+73,2016-02-04 20:36:00,2016-02-04 20:55:00,Business,Cary,Cary,7.7,Meeting,0 days 00:19:00
+74,2016-02-05 11:47:00,2016-02-05 12:07:00,Business,Cary,Durham,10.4,Meeting,0 days 00:20:00
+75,2016-02-05 13:22:00,2016-02-05 13:41:00,Business,Durham,Cary,10.4,Meeting,0 days 00:19:00
+76,2016-02-06 16:20:00,2016-02-06 16:53:00,Business,Cary,Raleigh,11.4,Between Offices,0 days 00:33:00
+77,2016-02-06 18:57:00,2016-02-06 19:21:00,Business,Raleigh,Cary,9.0,Errand/Supplies,0 days 00:24:00
+78,2016-02-06 19:28:00,2016-02-06 19:37:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,0 days 00:09:00
+79,2016-02-07 16:49:00,2016-02-07 17:01:00,Business,Cary,Apex,5.6,Errand/Supplies,0 days 00:12:00
+80,2016-02-07 18:03:00,2016-02-07 18:17:00,Business,Apex,Cary,5.7,Customer Visit,0 days 00:14:00
+81,2016-02-07 18:39:00,2016-02-07 18:53:00,Business,Cary,Morrisville,6.1,Temporary Site,0 days 00:14:00
+82,2016-02-07 20:22:00,2016-02-07 20:40:00,Business,Morrisville,Cary,6.1,Meeting,0 days 00:18:00
+83,2016-02-08 12:57:00,2016-02-08 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,0 days 00:11:00
+84,2016-02-08 14:00:00,2016-02-08 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,0 days 00:10:00
+85,2016-02-09 10:54:00,2016-02-09 11:07:00,Personal,Whitebridge,Northwoods,5.3,Missing_val,0 days 00:13:00
+86,2016-02-09 11:43:00,2016-02-09 11:50:00,Personal,Northwoods,Tanglewood,3.0,Missing_val,0 days 00:07:00
+87,2016-02-09 13:36:00,2016-02-09 13:52:00,Personal,Tanglewood,Preston,5.1,Missing_val,0 days 00:16:00
+88,2016-02-09 13:58:00,2016-02-09 14:02:00,Personal,Preston,Whitebridge,1.5,Missing_val,0 days 00:04:00
+89,2016-02-09 18:55:00,2016-02-09 19:11:00,Business,Cary,Morrisville,6.1,Missing_val,0 days 00:16:00
+90,2016-02-09 20:24:00,2016-02-09 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain,0 days 00:16:00
+91,2016-02-11 16:28:00,2016-02-11 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain,0 days 00:42:00
+92,2016-02-11 17:49:00,2016-02-11 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,0 days 00:21:00
+93,2016-02-11 18:24:00,2016-02-11 18:46:00,Business,Raleigh,Morrisville,13.5,Temporary Site,0 days 00:22:00
+94,2016-02-11 20:36:00,2016-02-11 20:51:00,Business,Morrisville,Cary,6.1,Temporary Site,0 days 00:15:00
+95,2016-02-12 08:21:00,2016-02-12 08:42:00,Business,Cary,Durham,8.5,Temporary Site,0 days 00:21:00
+96,2016-02-12 10:45:00,2016-02-12 10:52:00,Business,Durham,Morrisville,2.6,Temporary Site,0 days 00:07:00
+97,2016-02-12 11:14:00,2016-02-12 11:35:00,Business,Morrisville,Raleigh,17.0,Customer Visit,0 days 00:21:00
+98,2016-02-12 13:02:00,2016-02-12 13:36:00,Business,Raleigh,Cary,18.0,Meeting,0 days 00:34:00
+99,2016-02-12 14:49:00,2016-02-12 15:06:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:17:00
+100,2016-02-12 15:33:00,2016-02-12 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit,0 days 00:33:00
+101,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,8.9,Meeting,0 days 00:19:19.571428571
+102,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,East Elmhurst,Jackson Heights,2.7,Missing_val,0 days 00:19:19.571428571
+103,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Jackson Heights,East Elmhurst,1.8,Missing_val,0 days 00:19:19.571428571
+104,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,East Elmhurst,New York,8.1,Meeting,0 days 00:19:19.571428571
+105,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Midtown West,2.0,Meeting,0 days 00:19:19.571428571
+106,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New York,Long Island City,13.0,Meeting,0 days 00:19:19.571428571
+107,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Long Island City,Jamaica,13.9,Meeting,0 days 00:19:19.571428571
+108,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Katunayaka,Unknown Location,43.7,Customer Visit,0 days 00:19:19.571428571
+109,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Colombo,14.1,Missing_val,0 days 00:19:19.571428571
+110,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Colombo,2.6,Missing_val,0 days 00:19:19.571428571
+111,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Colombo,4.5,Missing_val,0 days 00:19:19.571428571
+112,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Colombo,1.7,Missing_val,0 days 00:19:19.571428571
+113,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Colombo,1.8,Temporary Site,0 days 00:19:19.571428571
+114,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Colombo,6.0,Missing_val,0 days 00:19:19.571428571
+115,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Nugegoda,1.1,Meal/Entertain,0 days 00:19:19.571428571
+116,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,0 days 00:19:19.571428571
+117,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Colombo,14.7,Temporary Site,0 days 00:19:19.571428571
+118,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Colombo,1.7,Meal/Entertain,0 days 00:19:19.571428571
+119,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Colombo,Katunayaka,21.4,Temporary Site,0 days 00:19:19.571428571
+120,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Katunayaka,Katunayaka,0.5,Errand/Supplies,0 days 00:19:19.571428571
+121,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,23.5,Temporary Site,0 days 00:19:19.571428571
+122,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,12.7,Temporary Site,0 days 00:19:19.571428571
+123,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,6.0,Temporary Site,0 days 00:19:19.571428571
+124,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,5.2,Customer Visit,0 days 00:19:19.571428571
+125,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,10.0,Meeting,0 days 00:19:19.571428571
+126,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,18.3,Meeting,0 days 00:19:19.571428571
+127,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,11.2,Meeting,0 days 00:19:19.571428571
+128,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,7.6,Meeting,0 days 00:19:19.571428571
+129,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Islamabad,Islamabad,1.5,Missing_val,0 days 00:19:19.571428571
+130,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Islamabad,Islamabad,1.0,Missing_val,0 days 00:19:19.571428571
+131,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,7.3,Temporary Site,0 days 00:19:19.571428571
+132,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,3.5,Missing_val,0 days 00:19:19.571428571
+133,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,4.2,Missing_val,0 days 00:19:19.571428571
+134,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Islamabad,Unknown Location,13.6,Missing_val,0 days 00:19:19.571428571
+135,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Unknown Location,Unknown Location,2.5,Missing_val,0 days 00:19:19.571428571
+136,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Unknown Location,Islamabad,14.4,Missing_val,0 days 00:19:19.571428571
+137,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Islamabad,Islamabad,3.0,Missing_val,0 days 00:19:19.571428571
+138,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Islamabad,Islamabad,1.5,Missing_val,0 days 00:19:19.571428571
+139,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,R?walpindi,18.4,Missing_val,0 days 00:19:19.571428571
+140,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,R?walpindi,23.1,Meeting,0 days 00:19:19.571428571
+141,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,R?walpindi,Unknown Location,16.5,Missing_val,0 days 00:19:19.571428571
+142,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,0 days 00:19:19.571428571
+143,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,0 days 00:19:19.571428571
+144,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,14.5,Missing_val,0 days 00:19:19.571428571
+145,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,0 days 00:19:19.571428571
+146,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,4.6,Errand/Supplies,0 days 00:19:19.571428571
+147,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,0 days 00:19:19.571428571
+148,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,8.3,Temporary Site,0 days 00:19:19.571428571
+149,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,22.7,Temporary Site,0 days 00:19:19.571428571
+150,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,13.0,Temporary Site,0 days 00:19:19.571428571
+151,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,0 days 00:19:19.571428571
+152,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,0 days 00:19:19.571428571
+153,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,9.7,Missing_val,0 days 00:19:19.571428571
+154,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,R?walpindi,20.0,Meeting,0 days 00:19:19.571428571
+155,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,8.1,Customer Visit,0 days 00:19:19.571428571
+156,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Preston,1.5,Missing_val,0 days 00:19:19.571428571
+157,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Preston,Whitebridge,1.7,Errand/Supplies,0 days 00:19:19.571428571
+158,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,0 days 00:19:19.571428571
+159,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,0 days 00:19:19.571428571
+160,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,0 days 00:19:19.571428571
+161,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,0 days 00:19:19.571428571
+162,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Westpark Place,6.3,Missing_val,0 days 00:19:19.571428571
+163,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Westpark Place,Whitebridge,1.7,Missing_val,0 days 00:19:19.571428571
+164,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.6,Meeting,0 days 00:19:19.571428571
+165,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+166,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Whitebridge,Westpark Place,1.9,Missing_val,0 days 00:19:19.571428571
+167,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Westpark Place,Hazelwood,4.2,Missing_val,0 days 00:19:19.571428571
+168,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Hazelwood,Whitebridge,2.0,Missing_val,0 days 00:19:19.571428571
+169,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Waverly Place,7.7,Meeting,0 days 00:19:19.571428571
+170,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Waverly Place,Whitebridge,6.8,Meeting,0 days 00:19:19.571428571
+171,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Whitebridge,Westpark Place,2.1,Missing_val,0 days 00:19:19.571428571
+172,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,3.8,Meeting,0 days 00:19:19.571428571
+173,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Cary,5.6,Meeting,0 days 00:19:19.571428571
+174,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Hazelwood,2.6,Missing_val,0 days 00:19:19.571428571
+175,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Hazelwood,Whitebridge,6.6,Customer Visit,0 days 00:19:19.571428571
+176,2016-03-01 18:47:00,2016-03-01 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,0 days 00:23:00
+177,2016-03-01 21:27:00,2016-03-01 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting,0 days 00:18:00
+178,2016-03-03 09:45:00,2016-03-03 09:52:00,Personal,Whitebridge,Westpark Place,2.2,Missing_val,0 days 00:07:00
+179,2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,0 days 00:06:00
+180,2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,0 days 00:14:00
+181,2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit,0 days 00:21:00
+182,2016-03-03 16:02:00,2016-03-03 16:42:00,Business,Raleigh,Cary,17.3,Meeting,0 days 00:40:00
+183,2016-03-04 07:47:00,2016-03-04 08:06:00,Business,Cary,Durham,9.9,Meeting,0 days 00:19:00
+184,2016-03-04 09:46:00,2016-03-04 10:03:00,Business,Durham,Cary,9.9,Customer Visit,0 days 00:17:00
+185,2016-03-04 11:46:00,2016-03-04 12:06:00,Business,Cary,Durham,10.4,Meeting,0 days 00:20:00
+186,2016-03-04 13:03:00,2016-03-04 13:25:00,Business,Durham,Cary,10.9,Meeting,0 days 00:22:00
+187,2016-03-04 13:40:00,2016-03-04 14:09:00,Business,Cary,Raleigh,15.7,Customer Visit,0 days 00:29:00
+188,2016-03-04 15:56:00,2016-03-04 16:08:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,0 days 00:12:00
+189,2016-03-04 16:16:00,2016-03-04 16:22:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,0 days 00:06:00
+190,2016-03-04 16:43:00,2016-03-04 17:12:00,Business,Raleigh,Cary,13.5,Meeting,0 days 00:29:00
+191,2016-03-04 19:02:00,2016-03-04 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site,0 days 00:06:00
+192,2016-03-04 19:16:00,2016-03-04 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain,0 days 00:09:00
+193,2016-03-05 11:44:00,2016-03-05 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain,0 days 00:15:00
+194,2016-03-05 12:57:00,2016-03-05 13:12:00,Personal,Weston,Weston,4.2,Missing_val,0 days 00:15:00
+195,2016-03-05 14:08:00,2016-03-05 14:18:00,Personal,Morrisville,Cary,3.5,Missing_val,0 days 00:10:00
+196,2016-03-05 14:39:00,2016-03-05 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,0 days 00:22:00
+197,2016-03-05 16:52:00,2016-03-05 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain,0 days 00:21:00
+198,2016-03-05 17:23:00,2016-03-05 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain,0 days 00:11:00
+199,2016-03-07 09:10:00,2016-03-07 09:20:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,0 days 00:10:00
+200,2016-03-07 09:23:00,2016-03-07 09:47:00,Business,Cary,Raleigh,12.4,Customer Visit,0 days 00:24:00
+201,2016-03-07 12:10:00,2016-03-07 12:26:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,0 days 00:16:00
+202,2016-03-07 13:57:00,2016-03-07 14:18:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,0 days 00:21:00
+203,2016-03-07 15:19:00,2016-03-07 15:45:00,Business,Raleigh,Cary,11.9,Between Offices,0 days 00:26:00
+204,2016-03-08 14:38:00,2016-03-08 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,0 days 00:17:00
+205,2016-03-08 15:35:00,2016-03-08 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,0 days 00:25:00
+206,2016-03-08 16:13:00,2016-03-08 16:25:00,Personal,Whitebridge,Whitebridge,1.6,Missing_val,0 days 00:12:00
+207,2016-03-10 03:36:00,2016-03-10 03:53:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:17:00
+208,2016-03-10 10:08:00,2016-03-10 10:37:00,Business,East Austin,West University,12.8,Meeting,0 days 00:29:00
+209,2016-03-10 14:39:00,2016-03-10 14:55:00,Business,West University,South Congress,2.3,Missing_val,0 days 00:16:00
+210,2016-03-10 16:18:00,2016-03-10 16:28:00,Business,South Congress,Arts District,1.6,Missing_val,0 days 00:10:00
+211,2016-03-11 09:47:00,2016-03-11 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,0 days 00:12:00
+212,2016-03-11 10:29:00,2016-03-11 10:36:00,Business,Congress Ave District,Downtown,0.8,Missing_val,0 days 00:07:00
+213,2016-03-11 11:57:00,2016-03-11 12:04:00,Business,Downtown,Red River District,1.2,Missing_val,0 days 00:07:00
+214,2016-03-11 13:43:00,2016-03-11 13:51:00,Business,Red River District,Downtown,1.0,Missing_val,0 days 00:08:00
+215,2016-03-11 19:21:00,2016-03-11 19:35:00,Business,South Congress,The Drag,2.1,Missing_val,0 days 00:14:00
+216,2016-03-12 09:13:00,2016-03-12 09:22:00,Business,The Drag,South Congress,2.2,Missing_val,0 days 00:09:00
+217,2016-03-12 18:27:00,2016-03-12 18:37:00,Personal,South Congress,The Drag,1.9,Missing_val,0 days 00:10:00
+218,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,The Drag,Convention Center District,5.7,Meal/Entertain,0 days 00:19:19.571428571
+219,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,South Congress,North Austin,8.4,Meal/Entertain,0 days 00:19:19.571428571
+220,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,0 days 00:19:19.571428571
+221,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,The Drag,North Austin,10.5,Meal/Entertain,0 days 00:19:19.571428571
+222,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,North Austin,Coxville,7.2,Meal/Entertain,0 days 00:19:19.571428571
+223,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Coxville,The Drag,12.5,Missing_val,0 days 00:19:19.571428571
+224,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,The Drag,South Congress,2.0,Errand/Supplies,0 days 00:19:19.571428571
+225,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,South Congress,The Drag,2.7,Missing_val,0 days 00:19:19.571428571
+226,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,The Drag,Convention Center District,2.0,Meal/Entertain,0 days 00:19:19.571428571
+227,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Downtown,The Drag,2.8,Meal/Entertain,0 days 00:19:19.571428571
+228,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,0 days 00:19:19.571428571
+229,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Convention Center District,West University,2.0,Missing_val,0 days 00:19:19.571428571
+230,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,West University,Congress Ave District,2.1,Meal/Entertain,0 days 00:19:19.571428571
+231,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Downtown,The Drag,1.7,Missing_val,0 days 00:19:19.571428571
+232,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Austin,Katy,136.0,Customer Visit,0 days 00:19:19.571428571
+233,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Katy,Houston,30.2,Meeting,0 days 00:19:19.571428571
+234,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Alief,15.5,Meal/Entertain,0 days 00:19:19.571428571
+235,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Houston,Houston,4.9,Missing_val,0 days 00:19:19.571428571
+236,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Houston,Houston,12.6,Missing_val,0 days 00:19:19.571428571
+237,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Sharpstown,Midtown,10.4,Missing_val,0 days 00:19:19.571428571
+238,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Midtown,1.1,Meal/Entertain,0 days 00:19:19.571428571
+239,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Midtown,1.1,Meal/Entertain,0 days 00:19:19.571428571
+240,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Sharpstown,13.2,Meeting,0 days 00:19:19.571428571
+241,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,0 days 00:19:19.571428571
+242,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Sharpstown,Midtown,9.2,Customer Visit,0 days 00:19:19.571428571
+243,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Sharpstown,9.4,Meal/Entertain,0 days 00:19:19.571428571
+244,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Houston,Sugar Land,12.0,Customer Visit,0 days 00:19:19.571428571
+245,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Sugar Land,Houston,35.1,Customer Visit,0 days 00:19:19.571428571
+246,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Houston,Galveston,36.5,Meal/Entertain,0 days 00:19:19.571428571
+247,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,0 days 00:19:19.571428571
+248,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,0 days 00:19:19.571428571
+249,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Port Bolivar,Port Bolivar,1.2,Missing_val,0 days 00:19:19.571428571
+250,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Port Bolivar,Galveston,7.5,Meeting,0 days 00:19:19.571428571
+251,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Galveston,Houston,57.0,Customer Visit,0 days 00:19:19.571428571
+252,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Washington Avenue,5.9,Meeting,0 days 00:19:19.571428571
+253,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Washington Avenue,Midtown,6.2,Meeting,0 days 00:19:19.571428571
+254,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Sharpstown,10.4,Missing_val,0 days 00:19:19.571428571
+255,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Sharpstown,Briar Meadow,1.2,Missing_val,0 days 00:19:19.571428571
+256,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Briar Meadow,Midtown,9.6,Customer Visit,0 days 00:19:19.571428571
+257,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Midtown,Downtown,1.0,Missing_val,0 days 00:19:19.571428571
+258,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Downtown,Midtown,0.9,Meal/Entertain,0 days 00:19:19.571428571
+259,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Sharpstown,8.8,Missing_val,0 days 00:19:19.571428571
+260,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Sharpstown,Midtown,25.6,Meal/Entertain,0 days 00:19:19.571428571
+261,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,0 days 00:19:19.571428571
+262,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Morrisville,Cary,8.1,Missing_val,0 days 00:19:19.571428571
+263,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Whitebridge,Whitebridge,1.4,Missing_val,0 days 00:19:19.571428571
+264,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Whitebridge,Preston,1.7,Missing_val,0 days 00:19:19.571428571
+265,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Preston,Whitebridge,1.6,Missing_val,0 days 00:19:19.571428571
+266,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Whitebridge,Westpark Place,2.0,Missing_val,0 days 00:19:19.571428571
+267,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,2.2,Missing_val,0 days 00:19:19.571428571
+268,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Latta,144.0,Customer Visit,0 days 00:19:19.571428571
+269,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Latta,Jacksonville,310.3,Customer Visit,0 days 00:19:19.571428571
+270,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Jacksonville,Kissimmee,201.0,Meeting,0 days 00:19:19.571428571
+271,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Couples Glen,Isles of Buena Vista,6.7,Missing_val,0 days 00:19:19.571428571
+272,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Kissimmee,Orlando,8.8,Missing_val,0 days 00:19:19.571428571
+273,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Lake Reams,Lake Reams,1.2,Missing_val,0 days 00:19:19.571428571
+274,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,0 days 00:19:19.571428571
+275,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Orlando,Kissimmee,6.6,Meal/Entertain,0 days 00:19:19.571428571
+276,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kissimmee,Orlando,6.1,Customer Visit,0 days 00:19:19.571428571
+277,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Orlando,Orlando,6.9,Missing_val,0 days 00:19:19.571428571
+278,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Orlando,Kissimmee,7.3,Missing_val,0 days 00:19:19.571428571
+279,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Kissimmee,Orlando,3.6,Missing_val,0 days 00:19:19.571428571
+280,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Couples Glen,Vista East,27.2,Missing_val,0 days 00:19:19.571428571
+281,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Orlando,Kissimmee,25.7,Missing_val,0 days 00:19:19.571428571
+282,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Kissimmee,Orlando,13.6,Missing_val,0 days 00:19:19.571428571
+283,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Sand Lake Commons,Sky Lake,6.2,Missing_val,0 days 00:19:19.571428571
+284,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Sky Lake,Sand Lake Commons,6.0,Missing_val,0 days 00:19:19.571428571
+285,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Orlando,Kissimmee,13.8,Missing_val,0 days 00:19:19.571428571
+286,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Orlando,Kissimmee,28.8,Meal/Entertain,0 days 00:19:19.571428571
+287,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kissimmee,Orlando,16.1,Temporary Site,0 days 00:19:19.571428571
+288,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Orlando,Kissimmee,16.4,Meal/Entertain,0 days 00:19:19.571428571
+289,2016-04-01 13:43:00,2016-04-01 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting,0 days 00:18:00
+290,2016-04-01 14:36:00,2016-04-01 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit,0 days 00:48:00
+291,2016-04-01 16:01:00,2016-04-01 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting,0 days 00:48:00
+292,2016-04-01 16:52:00,2016-04-01 16:57:00,Personal,Kissimmee,Kissimmee,0.7,Missing_val,0 days 00:05:00
+293,2016-04-02 08:48:00,2016-04-02 09:04:00,Personal,Kissimmee,Kissimmee,5.5,Missing_val,0 days 00:16:00
+294,2016-04-02 11:01:00,2016-04-02 11:16:00,Personal,Kissimmee,Kissimmee,5.1,Missing_val,0 days 00:15:00
+295,2016-04-02 12:21:00,2016-04-02 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,0 days 02:26:00
+296,2016-04-02 16:57:00,2016-04-02 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,0 days 01:12:00
+297,2016-04-02 19:38:00,2016-04-02 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,0 days 02:58:00
+298,2016-04-02 23:11:00,2016-04-03 01:34:00,Business,Ridgeland,Florence,144.0,Meeting,0 days 02:23:00
+299,2016-04-03 02:00:00,2016-04-03 04:16:00,Business,Florence,Cary,159.3,Meeting,0 days 02:16:00
+300,2016-04-05 21:39:00,2016-04-05 21:55:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,0 days 00:16:00
+301,2016-04-06 00:19:00,2016-04-06 00:39:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,0 days 00:20:00
+302,2016-04-07 18:20:00,2016-04-07 18:39:00,Business,Cary,Morrisville,6.1,Meal/Entertain,0 days 00:19:00
+303,2016-04-07 19:45:00,2016-04-07 20:00:00,Business,Morrisville,Cary,6.1,Errand/Supplies,0 days 00:15:00
+304,2016-04-08 12:30:00,2016-04-08 12:48:00,Business,Cary,Durham,10.5,Meeting,0 days 00:18:00
+305,2016-04-08 13:34:00,2016-04-08 13:51:00,Business,Durham,Cary,8.7,Meal/Entertain,0 days 00:17:00
+306,2016-04-08 13:55:00,2016-04-08 14:03:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,0 days 00:08:00
+307,2016-04-08 14:43:00,2016-04-08 15:20:00,Business,Cary,Raleigh,19.1,Meeting,0 days 00:37:00
+308,2016-04-08 16:05:00,2016-04-08 16:47:00,Business,Raleigh,Cary,18.6,Meeting,0 days 00:42:00
+309,2016-04-12 09:15:00,2016-04-12 09:26:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,0 days 00:11:00
+310,2016-04-12 09:34:00,2016-04-12 09:53:00,Business,Cary,Raleigh,8.9,Meeting,0 days 00:19:00
+311,2016-04-12 10:58:00,2016-04-12 11:18:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,0 days 00:20:00
+312,2016-04-12 12:22:00,2016-04-12 12:44:00,Business,Raleigh,Morrisville,15.9,Meeting,0 days 00:22:00
+313,2016-04-12 13:42:00,2016-04-12 14:01:00,Business,Morrisville,Cary,6.5,Meal/Entertain,0 days 00:19:00
+314,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Holly Springs,15.3,Temporary Site,0 days 00:19:19.571428571
+315,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Holly Springs,Cary,13.7,Temporary Site,0 days 00:19:19.571428571
+316,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,11.9,Temporary Site,0 days 00:19:19.571428571
+317,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,0 days 00:19:19.571428571
+318,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,15.2,Meeting,0 days 00:19:19.571428571
+319,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,6.0,Errand/Supplies,0 days 00:19:19.571428571
+320,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,6.1,Meal/Entertain,0 days 00:19:19.571428571
+321,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,0 days 00:19:19.571428571
+322,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,0 days 00:19:19.571428571
+323,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,13.6,Meeting,0 days 00:19:19.571428571
+324,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,22.5,Meeting,0 days 00:19:19.571428571
+325,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:19.571428571
+326,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,10.0,Meeting,0 days 00:19:19.571428571
+327,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,0 days 00:19:19.571428571
+328,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,0 days 00:19:19.571428571
+329,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.1,Errand/Supplies,0 days 00:19:19.571428571
+330,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Chessington,Chessington,1.9,Errand/Supplies,0 days 00:19:19.571428571
+331,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,4.2,Between Offices,0 days 00:19:19.571428571
+332,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Burtrose,4.9,Between Offices,0 days 00:19:19.571428571
+333,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Burtrose,Whitebridge,4.8,Between Offices,0 days 00:19:19.571428571
+334,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,12.4,Customer Visit,0 days 00:19:19.571428571
+335,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,32.8,Customer Visit,0 days 00:19:19.571428571
+336,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,5.5,Customer Visit,0 days 00:19:19.571428571
+337,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,9.9,Meeting,0 days 00:19:19.571428571
+338,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,10.0,Meeting,0 days 00:19:19.571428571
+339,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,14.2,Customer Visit,0 days 00:19:19.571428571
+340,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,18.2,Meeting,0 days 00:19:19.571428571
+341,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,0 days 00:19:19.571428571
+342,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Waverly Place,Whitebridge,6.8,Missing_val,0 days 00:19:19.571428571
+343,2016-05-01 13:45:00,2016-05-01 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,0 days 00:08:00
+344,2016-05-01 14:26:00,2016-05-01 14:31:00,Business,Westpark Place,Whitebridge,2.3,Missing_val,0 days 00:05:00
+345,2016-05-01 17:33:00,2016-05-01 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,0 days 00:12:00
+346,2016-05-01 17:54:00,2016-05-01 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting,0 days 00:16:00
+347,2016-05-01 22:38:00,2016-05-01 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,0 days 00:11:00
+348,2016-05-02 14:14:00,2016-05-02 14:21:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,0 days 00:07:00
+349,2016-05-02 15:37:00,2016-05-02 15:48:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,0 days 00:11:00
+350,2016-05-03 22:20:00,2016-05-03 22:28:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:08:00
+351,2016-05-04 15:16:00,2016-05-04 15:37:00,Business,Cary,Morrisville,8.7,Meal/Entertain,0 days 00:21:00
+352,2016-05-04 20:55:00,2016-05-04 21:14:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,0 days 00:19:00
+353,2016-05-04 21:30:00,2016-05-04 21:36:00,Business,Capitol One,University District,4.5,Meal/Entertain,0 days 00:06:00
+354,2016-05-04 22:19:00,2016-05-04 22:27:00,Business,University District,Capitol One,5.0,Meal/Entertain,0 days 00:08:00
+355,2016-05-05 21:24:00,2016-05-05 21:36:00,Business,Seattle,Redmond,14.2,Meal/Entertain,0 days 00:12:00
+356,2016-05-05 22:34:00,2016-05-05 22:40:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,0 days 00:06:00
+357,2016-05-05 23:55:00,2016-05-06 00:08:00,Business,Bellevue,Seattle,12.9,Meeting,0 days 00:13:00
+358,2016-05-06 05:47:00,2016-05-06 06:02:00,Business,Capitol One,Mcvan,14.4,Meeting,0 days 00:15:00
+359,2016-05-06 16:45:00,2016-05-06 16:59:00,Business,Chapel Hill,Morrisville,17.0,Meeting,0 days 00:14:00
+360,2016-05-06 17:18:00,2016-05-06 17:44:00,Business,Morrisville,Cary,7.9,Customer Visit,0 days 00:26:00
+361,2016-05-09 06:08:00,2016-05-09 06:25:00,Business,Cary,Morrisville,8.4,Customer Visit,0 days 00:17:00
+362,2016-05-09 14:39:00,2016-05-09 15:06:00,Business,San Francisco,Palo Alto,20.5,Between Offices,0 days 00:27:00
+363,2016-05-09 17:58:00,2016-05-09 18:26:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,0 days 00:28:00
+364,2016-05-09 19:35:00,2016-05-09 19:59:00,Business,Sunnyvale,Newark,17.6,Customer Visit,0 days 00:24:00
+365,2016-05-10 09:03:00,2016-05-10 09:20:00,Business,Newark,Menlo Park,9.3,Customer Visit,0 days 00:17:00
+366,2016-05-10 17:19:00,2016-05-10 17:31:00,Business,Menlo Park,Newark,7.9,Customer Visit,0 days 00:12:00
+367,2016-05-11 08:35:00,2016-05-11 09:12:00,Business,Newark,San Francisco,25.6,Meeting,0 days 00:37:00
+368,2016-05-11 21:47:00,2016-05-11 22:04:00,Business,Morrisville,Cary,8.1,Meeting,0 days 00:17:00
+369,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0 days 00:19:19.571428571
+370,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Meal/Entertain,0 days 00:19:19.571428571
+371,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Preston,2.8,Errand/Supplies,0 days 00:19:19.571428571
+372,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Preston,Westpark Place,2.7,Errand/Supplies,0 days 00:19:19.571428571
+373,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,0 days 00:19:19.571428571
+374,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,8.4,Customer Visit,0 days 00:19:19.571428571
+375,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Raleigh,7.6,Customer Visit,0 days 00:19:19.571428571
+376,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Old City,Parkway Museums,2.9,Meal/Entertain,0 days 00:19:19.571428571
+377,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Old City,Hog Island,11.2,Meeting,0 days 00:19:19.571428571
+378,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,8.2,Meal/Entertain,0 days 00:19:19.571428571
+379,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:19:19.571428571
+380,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:19:19.571428571
+381,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,0 days 00:19:19.571428571
+382,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,0 days 00:19:19.571428571
+383,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,0 days 00:19:19.571428571
+384,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Savon Height,Kilarney Woods,1.2,Missing_val,0 days 00:19:19.571428571
+385,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,0 days 00:19:19.571428571
+386,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,0 days 00:19:19.571428571
+387,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,6.1,Meal/Entertain,0 days 00:19:19.571428571
+388,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,11.3,Customer Visit,0 days 00:19:19.571428571
+389,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,14.9,Meeting,0 days 00:19:19.571428571
+390,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,14.0,Meeting,0 days 00:19:19.571428571
+391,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,1.8,Missing_val,0 days 00:19:19.571428571
+392,2016-06-01 10:19:00,2016-06-01 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit,0 days 00:28:00
+393,2016-06-01 13:10:00,2016-06-01 13:39:00,Business,Morrisville,Cary,9.6,Meeting,0 days 00:29:00
+394,2016-06-03 11:29:00,2016-06-03 11:49:00,Business,Cary,Durham,10.4,Meeting,0 days 00:20:00
+395,2016-06-03 13:08:00,2016-06-03 13:38:00,Business,Durham,Cary,9.9,Meeting,0 days 00:30:00
+396,2016-06-03 15:31:00,2016-06-03 15:54:00,Business,Cary,Morrisville,6.0,Meal/Entertain,0 days 00:23:00
+397,2016-06-03 18:14:00,2016-06-03 18:29:00,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,0 days 00:15:00
+398,2016-06-03 18:41:00,2016-06-03 18:53:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0 days 00:12:00
+399,2016-06-03 19:36:00,2016-06-03 19:42:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,0 days 00:06:00
+400,2016-06-03 22:47:00,2016-06-03 23:06:00,Business,Morrisville,Cary,4.0,Between Offices,0 days 00:19:00
+401,2016-06-05 14:03:00,2016-06-05 14:33:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,0 days 00:30:00
+402,2016-06-05 15:06:00,2016-06-05 15:22:00,Business,Cary,Morrisville,7.8,Customer Visit,0 days 00:16:00
+403,2016-06-05 15:57:00,2016-06-05 16:08:00,Business,Weston,Weston,3.8,Meal/Entertain,0 days 00:11:00
+404,2016-06-05 18:05:00,2016-06-05 18:14:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:09:00
+405,2016-06-05 21:53:00,2016-06-05 22:05:00,Business,Cary,Durham,9.9,Meeting,0 days 00:12:00
+406,2016-06-05 23:52:00,2016-06-06 00:08:00,Business,Durham,Cary,9.9,Meeting,0 days 00:16:00
+407,2016-06-06 15:36:00,2016-06-06 15:45:00,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,0 days 00:09:00
+408,2016-06-06 16:16:00,2016-06-06 16:24:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,0 days 00:08:00
+409,2016-06-06 20:06:00,2016-06-06 20:20:00,Business,Cary,Apex,5.7,Meal/Entertain,0 days 00:14:00
+410,2016-06-06 21:08:00,2016-06-06 21:37:00,Business,Apex,Cary,7.2,Meal/Entertain,0 days 00:29:00
+411,2016-06-06 21:41:00,2016-06-06 22:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:00
+412,2016-06-06 23:34:00,2016-06-06 23:48:00,Business,Durham,Cary,9.9,Meeting,0 days 00:14:00
+413,2016-06-07 21:42:00,2016-06-07 22:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:18:00
+414,2016-06-07 23:41:00,2016-06-08 00:04:00,Business,Durham,Cary,9.9,Meeting,0 days 00:23:00
+415,2016-06-08 08:23:00,2016-06-08 08:53:00,Business,Cary,Morrisville,8.7,Meal/Entertain,0 days 00:30:00
+416,2016-06-08 12:04:00,2016-06-08 13:01:00,Business,Jamaica,New York,22.3,Errand/Supplies,0 days 00:57:00
+417,2016-06-08 13:12:00,2016-06-08 13:29:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,0 days 00:17:00
+418,2016-06-08 14:31:00,2016-06-08 14:37:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,0 days 00:06:00
+419,2016-06-08 16:55:00,2016-06-08 17:11:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,0 days 00:16:00
+420,2016-06-08 17:16:00,2016-06-08 17:18:00,Business,Soho,Tribeca,0.5,Errand/Supplies,0 days 00:02:00
+421,2016-06-08 17:59:00,2016-06-08 18:05:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,0 days 00:06:00
+422,2016-06-08 20:11:00,2016-06-08 20:25:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,0 days 00:14:00
+423,2016-06-10 15:19:00,2016-06-10 16:28:00,Business,New York,Jamaica,16.3,Meeting,0 days 01:09:00
+424,2016-06-10 21:47:00,2016-06-10 22:04:00,Business,Cary,Durham,10.4,Meeting,0 days 00:17:00
+425,2016-06-10 23:53:00,2016-06-11 00:01:00,Business,Durham,Cary,9.9,Meeting,0 days 00:08:00
+426,2016-06-11 17:08:00,2016-06-11 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies,0 days 00:08:00
+427,2016-06-11 17:34:00,2016-06-11 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain,0 days 00:05:00
+428,2016-06-11 17:50:00,2016-06-11 17:56:00,Business,Westpark Place,Whitebridge,1.7,Missing_val,0 days 00:06:00
+429,2016-06-11 21:45:00,2016-06-11 22:04:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:00
+430,2016-06-11 23:39:00,2016-06-12 00:05:00,Business,Durham,Cary,9.9,Meeting,0 days 00:26:00
+431,2016-06-12 19:53:00,2016-06-12 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain,0 days 00:03:00
+432,2016-06-12 20:05:00,2016-06-12 20:16:00,Business,Morrisville,Cary,4.3,Errand/Supplies,0 days 00:11:00
+433,2016-06-12 21:58:00,2016-06-12 22:19:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,0 days 00:21:00
+434,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,8.4,Meal/Entertain,0 days 00:19:19.571428571
+435,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Oakland,Emeryville,13.2,Meeting,0 days 00:19:19.571428571
+436,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Berkeley,3.9,Meal/Entertain,0 days 00:19:19.571428571
+437,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Oakland,5.1,Meal/Entertain,0 days 00:19:19.571428571
+438,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Oakland,Unknown Location,5.2,Customer Visit,0 days 00:19:19.571428571
+439,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,San Francisco,9.8,Missing_val,0 days 00:19:19.571428571
+440,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,San Francisco,Emeryville,11.6,Meeting,0 days 00:19:19.571428571
+441,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Oakland,5.1,Meeting,0 days 00:19:19.571428571
+442,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,0 days 00:19:19.571428571
+443,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kenner,New Orleans,12.4,Between Offices,0 days 00:19:19.571428571
+444,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,CBD,Lower Garden District,1.9,Between Offices,0 days 00:19:19.571428571
+445,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lower Garden District,Lakeview,6.4,Customer Visit,0 days 00:19:19.571428571
+446,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Lakeview,Storyville,5.5,Missing_val,0 days 00:19:19.571428571
+447,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,0 days 00:19:19.571428571
+448,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New Orleans,Metairie,14.5,Missing_val,0 days 00:19:19.571428571
+449,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Metairie,Kenner,2.7,Missing_val,0 days 00:19:19.571428571
+450,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kenner,New Orleans,15.0,Missing_val,0 days 00:19:19.571428571
+451,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New Orleans,Kenner,12.9,Missing_val,0 days 00:19:19.571428571
+452,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kenner,New Orleans,13.6,Missing_val,0 days 00:19:19.571428571
+453,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New Orleans,Kenner,12.2,Missing_val,0 days 00:19:19.571428571
+454,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,8.7,Missing_val,0 days 00:19:19.571428571
+455,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,6.0,Missing_val,0 days 00:19:19.571428571
+456,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,5.9,Missing_val,0 days 00:19:19.571428571
+457,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,19.3,Missing_val,0 days 00:19:19.571428571
+458,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,16.6,Meal/Entertain,0 days 00:19:19.571428571
+459,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,0 days 00:19:19.571428571
+460,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,0 days 00:19:19.571428571
+461,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,8.6,Errand/Supplies,0 days 00:19:19.571428571
+462,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Morrisville,9.0,Errand/Supplies,0 days 00:19:19.571428571
+463,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0 days 00:19:19.571428571
+464,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,8.4,Temporary Site,0 days 00:19:19.571428571
+465,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kenner,New Orleans,12.8,Missing_val,0 days 00:19:19.571428571
+466,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,CBD,Bywater,4.5,Missing_val,0 days 00:19:19.571428571
+467,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New Orleans,Chalmette,11.8,Between Offices,0 days 00:19:19.571428571
+468,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Chalmette,Arabi,1.1,Errand/Supplies,0 days 00:19:19.571428571
+469,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Arabi,Metairie,17.0,Meal/Entertain,0 days 00:19:19.571428571
+470,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,0 days 00:19:19.571428571
+471,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Metairie,New Orleans,15.5,Meeting,0 days 00:19:19.571428571
+472,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Storyville,Marigny,1.6,Missing_val,0 days 00:19:19.571428571
+473,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Marigny,Storyville,1.5,Missing_val,0 days 00:19:19.571428571
+474,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New Orleans,Kenner,12.6,Meeting,0 days 00:19:19.571428571
+475,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Pontchartrain Shores,Pontchartrain Shores,4.8,Missing_val,0 days 00:19:19.571428571
+476,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kenner,Kenner,2.2,Missing_val,0 days 00:19:19.571428571
+477,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kenner,New Orleans,13.0,Missing_val,0 days 00:19:19.571428571
+478,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,New Orleans,Covington,46.9,Missing_val,0 days 00:19:19.571428571
+479,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Covington,Covington,2.5,Missing_val,0 days 00:19:19.571428571
+480,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Covington,Covington,8.6,Missing_val,0 days 00:19:19.571428571
+481,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Covington,Covington,5.2,Missing_val,0 days 00:19:19.571428571
+482,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Covington,Covington,7.6,Missing_val,0 days 00:19:19.571428571
+483,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Covington,Covington,1.8,Missing_val,0 days 00:19:19.571428571
+484,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Covington,Mandeville,4.7,Missing_val,0 days 00:19:19.571428571
+485,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Mandeville,Mandeville,2.8,Missing_val,0 days 00:19:19.571428571
+486,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Mandeville,Metairie,30.0,Missing_val,0 days 00:19:19.571428571
+487,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Metairie,Kenner,4.4,Missing_val,0 days 00:19:19.571428571
+488,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Jamestown Court,Jamestown Court,1.0,Missing_val,0 days 00:19:19.571428571
+489,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,8.2,Customer Visit,0 days 00:19:19.571428571
+490,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:19.571428571
+491,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+492,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+493,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,7.3,Missing_val,0 days 00:19:19.571428571
+494,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,7.4,Missing_val,0 days 00:19:19.571428571
+495,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Westpark Place,1.6,Missing_val,0 days 00:19:19.571428571
+496,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,1.8,Missing_val,0 days 00:19:19.571428571
+497,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:19.571428571
+498,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+499,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,9.9,Meeting,0 days 00:19:19.571428571
+500,2016-07-01 00:00:00,2016-07-01 00:25:00,Business,Durham,Cary,9.9,Meeting,0 days 00:25:00
+501,2016-07-01 09:34:00,2016-07-01 09:57:00,Business,Cary,Raleigh,13.3,Meeting,0 days 00:23:00
+502,2016-07-01 12:36:00,2016-07-01 13:00:00,Business,Raleigh,Cary,11.3,Meeting,0 days 00:24:00
+503,2016-07-01 20:06:00,2016-07-01 20:24:00,Business,Cary,Durham,10.5,Meeting,0 days 00:18:00
+504,2016-07-01 23:48:00,2016-07-02 00:09:00,Business,Durham,Cary,9.9,Meeting,0 days 00:21:00
+505,2016-07-02 20:18:00,2016-07-02 20:36:00,Business,Cary,Durham,10.1,Meeting,0 days 00:18:00
+506,2016-07-02 23:48:00,2016-07-03 00:12:00,Business,Durham,Cary,9.9,Meeting,0 days 00:24:00
+507,2016-07-03 00:28:00,2016-07-03 00:38:00,Business,Cary,Morrisville,3.1,Errand/Supplies,0 days 00:10:00
+508,2016-07-03 03:02:00,2016-07-03 03:08:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0 days 00:06:00
+509,2016-07-03 20:00:00,2016-07-03 20:18:00,Business,Cary,Durham,9.9,Meeting,0 days 00:18:00
+510,2016-07-04 00:32:00,2016-07-04 00:47:00,Business,Durham,Cary,9.9,Meeting,0 days 00:15:00
+511,2016-07-04 17:31:00,2016-07-04 17:49:00,Business,Whitebridge,Summerwinds,8.8,Meeting,0 days 00:18:00
+512,2016-07-04 18:23:00,2016-07-04 18:49:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,0 days 00:26:00
+513,2016-07-04 20:00:00,2016-07-04 20:17:00,Business,Cary,Durham,11.8,Meeting,0 days 00:17:00
+514,2016-07-05 00:00:00,2016-07-05 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,0 days 00:05:00
+515,2016-07-05 00:08:00,2016-07-05 00:28:00,Business,Durham,Cary,9.9,Meeting,0 days 00:20:00
+516,2016-07-05 16:48:00,2016-07-05 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,0 days 00:04:00
+517,2016-07-05 20:06:00,2016-07-05 20:26:00,Business,Cary,Durham,9.9,Missing_val,0 days 00:20:00
+518,2016-07-05 22:41:00,2016-07-05 23:02:00,Business,Durham,Morrisville,8.6,Missing_val,0 days 00:21:00
+519,2016-07-06 00:33:00,2016-07-06 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain,0 days 00:20:00
+520,2016-07-06 09:06:00,2016-07-06 09:25:00,Business,Cary,Durham,9.9,Meeting,0 days 00:19:00
+521,2016-07-06 12:48:00,2016-07-06 13:08:00,Business,Durham,Cary,9.9,Missing_val,0 days 00:20:00
+522,2016-07-06 20:04:00,2016-07-06 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0 days 00:10:00
+523,2016-07-06 23:46:00,2016-07-06 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:13:00
+524,2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site,0 days 00:28:00
+525,2016-07-07 10:27:00,2016-07-07 10:33:00,Business,Morrisville,Cary,8.9,Missing_val,0 days 00:06:00
+526,2016-07-07 12:59:00,2016-07-07 13:35:00,Business,Kenner,New Orleans,12.8,Missing_val,0 days 00:36:00
+527,2016-07-08 09:50:00,2016-07-08 10:13:00,Business,CBD,Pontchartrain Beach,7.7,Missing_val,0 days 00:23:00
+528,2016-07-08 10:51:00,2016-07-08 11:12:00,Business,Pontchartrain Beach,CBD,7.0,Missing_val,0 days 00:21:00
+529,2016-07-08 13:48:00,2016-07-08 14:11:00,Business,New Orleans,Metairie,12.5,Missing_val,0 days 00:23:00
+530,2016-07-08 17:11:00,2016-07-08 17:30:00,Business,Kenner,New Orleans,13.2,Missing_val,0 days 00:19:00
+531,2016-07-09 09:03:00,2016-07-09 09:46:00,Business,New Orleans,Kenner,13.0,Missing_val,0 days 00:43:00
+532,2016-07-09 09:52:00,2016-07-09 10:06:00,Business,Kenner,Metairie,4.9,Missing_val,0 days 00:14:00
+533,2016-07-09 10:15:00,2016-07-09 10:33:00,Business,Metairie,New Orleans,8.5,Missing_val,0 days 00:18:00
+534,2016-07-10 14:10:00,2016-07-10 14:17:00,Business,CBD,St Thomas,1.3,Missing_val,0 days 00:07:00
+535,2016-07-10 16:04:00,2016-07-10 16:15:00,Business,St Thomas,CBD,1.8,Missing_val,0 days 00:11:00
+536,2016-07-10 18:05:00,2016-07-10 18:21:00,Business,New Orleans,Kenner,13.6,Missing_val,0 days 00:16:00
+537,2016-07-10 19:51:00,2016-07-10 20:08:00,Business,Kenner,New Orleans,13.4,Missing_val,0 days 00:17:00
+538,2016-07-12 16:10:00,2016-07-12 16:45:00,Business,New Orleans,Kenner,12.3,Missing_val,0 days 00:35:00
+539,2016-07-12 19:21:00,2016-07-12 19:26:00,Personal,Kenner,Kenner,1.4,Missing_val,0 days 00:05:00
+540,2016-07-12 23:47:00,2016-07-12 23:47:00,Personal,Morrisville,Cary,8.7,Missing_val,0 days 00:19:19.571428571
+541,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Cary,Morrisville,23.5,Missing_val,0 days 00:19:19.571428571
+542,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Morrisville,Morrisville,2.2,Missing_val,0 days 00:19:19.571428571
+543,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Morrisville,Cary,4.4,Missing_val,0 days 00:19:19.571428571
+544,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Cary,Morrisville,3.3,Missing_val,0 days 00:19:19.571428571
+545,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Morrisville,11.8,Errand/Supplies,0 days 00:19:19.571428571
+546,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Banner Elk,195.3,Missing_val,0 days 00:19:19.571428571
+547,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Banner Elk,8.3,Missing_val,0 days 00:19:19.571428571
+548,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Banner Elk,3.2,Missing_val,0 days 00:19:19.571428571
+549,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Elk Park,22.4,Missing_val,0 days 00:19:19.571428571
+550,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Elk Park,Banner Elk,12.2,Missing_val,0 days 00:19:19.571428571
+551,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Banner Elk,4.5,Missing_val,0 days 00:19:19.571428571
+552,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Newland,28.1,Missing_val,0 days 00:19:19.571428571
+553,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Newland,Newland,3.8,Missing_val,0 days 00:19:19.571428571
+554,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Newland,Boone,41.9,Missing_val,0 days 00:19:19.571428571
+555,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Boone,Banner Elk,23.8,Missing_val,0 days 00:19:19.571428571
+556,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Banner Elk,13.0,Missing_val,0 days 00:19:19.571428571
+557,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,0 days 00:19:19.571428571
+558,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Banner Elk,Boone,15.1,Charity ($),0 days 00:19:19.571428571
+559,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Boone,Cary,180.2,Commute,0 days 00:19:19.571428571
+560,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Cary,Morrisville,4.1,Moving,0 days 00:19:19.571428571
+561,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Morrisville,Cary,6.1,Moving,0 days 00:19:19.571428571
+562,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Northwoods,Preston,3.3,Moving,0 days 00:19:19.571428571
+563,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Preston,Whitebridge,4.7,Moving,0 days 00:19:19.571428571
+564,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,7.2,Meeting,0 days 00:19:19.571428571
+565,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Cary,5.5,Meal/Entertain,0 days 00:19:19.571428571
+566,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0 days 00:19:19.571428571
+567,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Hazelwood,Weston,0.9,Errand/Supplies,0 days 00:19:19.571428571
+568,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.8,Meal/Entertain,0 days 00:19:19.571428571
+569,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Stonewater,6.4,Customer Visit,0 days 00:19:19.571428571
+570,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting,0 days 00:19:19.571428571
+571,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,0 days 00:19:19.571428571
+572,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Chessington,3.9,Errand/Supplies,0 days 00:19:19.571428571
+573,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Chessington,Whitebridge,4.8,Missing_val,0 days 00:19:19.571428571
+574,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Whitebridge,Edgehill Farms,2.8,Missing_val,0 days 00:19:19.571428571
+575,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Edgehill Farms,Preston,1.4,Missing_val,0 days 00:19:19.571428571
+576,2025-01-01 00:00:00,2025-01-01 01:00:00,Personal,Preston,Whitebridge,1.4,Missing_val,0 days 00:19:19.571428571
+577,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Edgehill Farms,2.7,Missing_val,0 days 00:19:19.571428571
+578,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Edgehill Farms,Burtrose,2.3,Missing_val,0 days 00:19:19.571428571
+579,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.7,Missing_val,0 days 00:19:19.571428571
+580,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.9,Missing_val,0 days 00:19:19.571428571
+581,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.8,Missing_val,0 days 00:19:19.571428571
+582,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,5.1,Missing_val,0 days 00:19:19.571428571
+583,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Hazelwood,Lexington Park at Amberly,9.1,Missing_val,0 days 00:19:19.571428571
+584,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,8.0,Missing_val,0 days 00:19:19.571428571
+585,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+586,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,6.1,Meal/Entertain,0 days 00:19:19.571428571
+587,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,12.2,Missing_val,0 days 00:19:19.571428571
+588,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Wayne Ridge,Whitebridge,8.0,Missing_val,0 days 00:19:19.571428571
+589,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,4.0,Missing_val,0 days 00:19:19.571428571
+590,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,9.5,Missing_val,0 days 00:19:19.571428571
+591,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.0,Missing_val,0 days 00:19:19.571428571
+592,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,6.3,Missing_val,0 days 00:19:19.571428571
+593,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:19.571428571
+594,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+595,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Parkway,1.5,Missing_val,0 days 00:19:19.571428571
+596,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,4.9,Missing_val,0 days 00:19:19.571428571
+597,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,7.9,Missing_val,0 days 00:19:19.571428571
+598,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Parkway,Whitebridge,1.7,Missing_val,0 days 00:19:19.571428571
+599,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Westpark Place,2.2,Missing_val,0 days 00:19:19.571428571
+600,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,2.1,Missing_val,0 days 00:19:19.571428571
+601,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,2.5,Meal/Entertain,0 days 00:19:19.571428571
+602,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:19:19.571428571
+603,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,2.8,Missing_val,0 days 00:19:19.571428571
+604,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Raleigh,14.7,Missing_val,0 days 00:19:19.571428571
+605,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Morrisville,14.6,Missing_val,0 days 00:19:19.571428571
+606,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.3,Missing_val,0 days 00:19:19.571428571
+607,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Westpark Place,2.2,Missing_val,0 days 00:19:19.571428571
+608,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,0 days 00:19:19.571428571
+609,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,14.0,Missing_val,0 days 00:19:19.571428571
+610,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,13.3,Missing_val,0 days 00:19:19.571428571
+611,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Westpark Place,Whitebridge,1.8,Missing_val,0 days 00:19:19.571428571
+612,2016-08-01 12:47:00,2016-08-01 13:04:00,Business,Whitebridge,Arlington Park at Amberly,6.2,Missing_val,0 days 00:17:00
+613,2016-08-01 13:08:00,2016-08-01 13:19:00,Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,Missing_val,0 days 00:11:00
+614,2016-08-01 13:28:00,2016-08-01 13:46:00,Business,Lexington Park at Amberly,Westpark Place,1.9,Missing_val,0 days 00:18:00
+615,2016-08-01 13:52:00,2016-08-01 14:14:00,Business,Cary,Apex,6.9,Missing_val,0 days 00:22:00
+616,2016-08-01 15:40:00,2016-08-01 15:47:00,Business,Apex,Cary,4.6,Missing_val,0 days 00:07:00
+617,2016-08-01 16:18:00,2016-08-01 16:25:00,Business,Whitebridge,Edgehill Farms,2.8,Missing_val,0 days 00:07:00
+618,2016-08-01 16:29:00,2016-08-01 16:59:00,Business,Cary,Morrisville,9.1,Missing_val,0 days 00:30:00
+619,2016-08-01 17:23:00,2016-08-01 17:55:00,Business,Morrisville,Cary,8.1,Missing_val,0 days 00:32:00
+620,2016-08-02 08:11:00,2016-08-02 08:32:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:21:00
+621,2016-08-02 11:51:00,2016-08-02 12:15:00,Business,Arlington,Washington,4.9,Missing_val,0 days 00:24:00
+622,2016-08-02 19:15:00,2016-08-02 19:23:00,Business,Kalorama Triangle,K Street,1.0,Missing_val,0 days 00:08:00
+623,2016-08-02 21:23:00,2016-08-02 21:29:00,Business,K Street,Kalorama Triangle,1.0,Missing_val,0 days 00:06:00
+624,2016-08-03 12:46:00,2016-08-03 13:00:00,Business,West End,Northwest Rectangle,2.0,Missing_val,0 days 00:14:00
+625,2016-08-03 14:59:00,2016-08-03 15:03:00,Business,K Street,Kalorama Triangle,1.1,Missing_val,0 days 00:04:00
+626,2016-08-03 16:00:00,2016-08-03 16:04:00,Business,Kalorama Triangle,Downtown,1.5,Missing_val,0 days 00:04:00
+627,2016-08-05 17:23:00,2016-08-05 17:30:00,Business,Connecticut Avenue,Kalorama Triangle,1.3,Missing_val,0 days 00:07:00
+628,2016-08-05 18:17:00,2016-08-05 18:21:00,Business,Kalorama Triangle,Columbia Heights,1.8,Missing_val,0 days 00:04:00
+629,2016-08-05 19:17:00,2016-08-05 19:27:00,Business,Columbia Heights,Kalorama Triangle,1.5,Missing_val,0 days 00:10:00
+630,2016-08-06 06:40:00,2016-08-06 06:58:00,Business,Washington,Arlington,6.6,Missing_val,0 days 00:18:00
+631,2016-08-06 09:31:00,2016-08-06 09:53:00,Business,Morrisville,Cary,8.0,Missing_val,0 days 00:22:00
+632,2016-08-07 17:14:00,2016-08-07 17:23:00,Business,Whitebridge,Edgehill Farms,2.7,Missing_val,0 days 00:09:00
+633,2016-08-07 17:28:00,2016-08-07 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,0 days 00:15:00
+634,2016-08-07 18:17:00,2016-08-07 18:23:00,Business,Cary,Morrisville,2.5,Missing_val,0 days 00:06:00
+635,2016-08-07 20:15:00,2016-08-07 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:08:00
+636,2016-08-08 16:17:00,2016-08-08 16:31:00,Business,Whitebridge,Farmington Woods,5.2,Missing_val,0 days 00:14:00
+637,2016-08-08 16:37:00,2016-08-08 16:50:00,Business,Farmington Woods,Edgehill Farms,4.0,Missing_val,0 days 00:13:00
+638,2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,0 days 00:11:00
+639,2016-08-08 21:50:00,2016-08-08 22:15:00,Business,Cary,Morrisville,4.8,Missing_val,0 days 00:25:00
+640,2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit,0 days 00:09:00
+641,2016-08-09 14:20:00,2016-08-09 14:38:00,Business,Whitebridge,Waverly Place,6.9,Missing_val,0 days 00:18:00
+642,2016-08-09 15:15:00,2016-08-09 15:36:00,Business,Cary,Raleigh,14.9,Missing_val,0 days 00:21:00
+643,2016-08-09 16:04:00,2016-08-09 16:37:00,Business,Raleigh,Cary,17.4,Missing_val,0 days 00:33:00
+644,2016-08-10 16:56:00,2016-08-10 17:24:00,Business,Cary,Durham,12.9,Missing_val,0 days 00:28:00
+645,2016-08-10 17:53:00,2016-08-10 18:28:00,Business,Durham,Apex,15.3,Missing_val,0 days 00:35:00
+646,2016-08-10 18:49:00,2016-08-10 18:50:00,Business,Apex,Apex,1.0,Missing_val,0 days 00:01:00
+647,2016-08-10 19:47:00,2016-08-10 20:02:00,Business,Apex,Cary,6.0,Missing_val,0 days 00:15:00
+648,2016-08-11 12:53:00,2016-08-11 13:00:00,Business,Whitebridge,Heritage Pines,2.2,Missing_val,0 days 00:07:00
+649,2016-08-11 13:14:00,2016-08-11 13:28:00,Business,Heritage Pines,Edgehill Farms,4.4,Missing_val,0 days 00:14:00
+650,2016-08-11 13:32:00,2016-08-11 13:42:00,Business,Edgehill Farms,Whitebridge,2.8,Missing_val,0 days 00:10:00
+651,2016-08-11 18:37:00,2016-08-11 19:29:00,Business,Cary,Wake Forest,31.7,Missing_val,0 days 00:52:00
+652,2016-08-11 20:59:00,2016-08-11 21:44:00,Business,Wake Forest,Cary,31.9,Missing_val,0 days 00:45:00
+653,2016-08-12 18:49:00,2016-08-12 18:52:00,Business,Whitebridge,Westpark Place,1.9,Missing_val,0 days 00:03:00
+654,2016-08-12 18:56:00,2016-08-12 19:05:00,Business,Westpark Place,Whitebridge,1.8,Missing_val,0 days 00:09:00
+655,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:19:19.571428571
+656,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,Unknown Location,15.6,Missing_val,0 days 00:19:19.571428571
+657,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,14.1,Missing_val,0 days 00:19:19.571428571
+658,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,15.7,Missing_val,0 days 00:19:19.571428571
+659,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,25.9,Temporary Site,0 days 00:19:19.571428571
+660,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.9,Missing_val,0 days 00:19:19.571428571
+661,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,2.7,Missing_val,0 days 00:19:19.571428571
+662,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.5,Missing_val,0 days 00:19:19.571428571
+663,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,5.7,Missing_val,0 days 00:19:19.571428571
+664,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,1.2,Missing_val,0 days 00:19:19.571428571
+665,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,0 days 00:19:19.571428571
+666,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,16.2,Missing_val,0 days 00:19:19.571428571
+667,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,2.6,Missing_val,0 days 00:19:19.571428571
+668,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,12.1,Missing_val,0 days 00:19:19.571428571
+669,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,R?walpindi,1.4,Missing_val,0 days 00:19:19.571428571
+670,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,Islamabad,6.4,Missing_val,0 days 00:19:19.571428571
+671,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,7.3,Missing_val,0 days 00:19:19.571428571
+672,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.3,Missing_val,0 days 00:19:19.571428571
+673,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.5,Missing_val,0 days 00:19:19.571428571
+674,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,0 days 00:19:19.571428571
+675,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.6,Temporary Site,0 days 00:19:19.571428571
+676,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Noorpur Shahan,7.6,Missing_val,0 days 00:19:19.571428571
+677,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Noorpur Shahan,Islamabad,3.3,Missing_val,0 days 00:19:19.571428571
+678,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,R?walpindi,6.5,Missing_val,0 days 00:19:19.571428571
+679,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,Unknown Location,2.0,Missing_val,0 days 00:19:19.571428571
+680,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,5.7,Missing_val,0 days 00:19:19.571428571
+681,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,3.2,Missing_val,0 days 00:19:19.571428571
+682,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,12.5,Missing_val,0 days 00:19:19.571428571
+683,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.6,Airport/Travel,0 days 00:19:19.571428571
+684,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.7,Missing_val,0 days 00:19:19.571428571
+685,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,12.2,Missing_val,0 days 00:19:19.571428571
+686,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,1.4,Missing_val,0 days 00:19:19.571428571
+687,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,20.2,Missing_val,0 days 00:19:19.571428571
+688,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,9.8,Missing_val,0 days 00:19:19.571428571
+689,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,6.3,Missing_val,0 days 00:19:19.571428571
+690,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,4.9,Missing_val,0 days 00:19:19.571428571
+691,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,1.5,Missing_val,0 days 00:19:19.571428571
+692,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,10.9,Missing_val,0 days 00:19:19.571428571
+693,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,19.0,Missing_val,0 days 00:19:19.571428571
+694,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,19.0,Missing_val,0 days 00:19:19.571428571
+695,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,R?walpindi,7.9,Missing_val,0 days 00:19:19.571428571
+696,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,R?walpindi,4.1,Missing_val,0 days 00:19:19.571428571
+697,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,Unknown Location,18.7,Missing_val,0 days 00:19:19.571428571
+698,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Noorpur Shahan,8.7,Missing_val,0 days 00:19:19.571428571
+699,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Noorpur Shahan,Unknown Location,7.5,Missing_val,0 days 00:19:19.571428571
+700,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Noorpur Shahan,7.7,Missing_val,0 days 00:19:19.571428571
+701,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Noorpur Shahan,Islamabad,4.4,Missing_val,0 days 00:19:19.571428571
+702,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,5.0,Missing_val,0 days 00:19:19.571428571
+703,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,1.9,Missing_val,0 days 00:19:19.571428571
+704,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,7.9,Missing_val,0 days 00:19:19.571428571
+705,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,17.7,Missing_val,0 days 00:19:19.571428571
+706,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,25.2,Missing_val,0 days 00:19:19.571428571
+707,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,96.2,Missing_val,0 days 00:19:19.571428571
+708,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,35.0,Missing_val,0 days 00:19:19.571428571
+709,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.5,Missing_val,0 days 00:19:19.571428571
+710,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,50.4,Missing_val,0 days 00:19:19.571428571
+711,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,9.2,Missing_val,0 days 00:19:19.571428571
+712,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,7.3,Missing_val,0 days 00:19:19.571428571
+713,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.0,Missing_val,0 days 00:19:19.571428571
+714,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,3.8,Missing_val,0 days 00:19:19.571428571
+715,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,3.9,Missing_val,0 days 00:19:19.571428571
+716,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,7.4,Missing_val,0 days 00:19:19.571428571
+717,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,1.5,Missing_val,0 days 00:19:19.571428571
+718,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,7.9,Missing_val,0 days 00:19:19.571428571
+719,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,2.9,Missing_val,0 days 00:19:19.571428571
+720,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,3.4,Missing_val,0 days 00:19:19.571428571
+721,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,3.8,Missing_val,0 days 00:19:19.571428571
+722,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,5.9,Missing_val,0 days 00:19:19.571428571
+723,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,9.6,Missing_val,0 days 00:19:19.571428571
+724,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,7.0,Missing_val,0 days 00:19:19.571428571
+725,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,0.9,Missing_val,0 days 00:19:19.571428571
+726,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,86.6,Missing_val,0 days 00:19:19.571428571
+727,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,156.9,Missing_val,0 days 00:19:19.571428571
+728,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Noorpur Shahan,10.1,Missing_val,0 days 00:19:19.571428571
+729,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Noorpur Shahan,Islamabad,6.2,Missing_val,0 days 00:19:19.571428571
+730,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,5.3,Missing_val,0 days 00:19:19.571428571
+731,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,12.1,Missing_val,0 days 00:19:19.571428571
+732,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,10.8,Missing_val,0 days 00:19:19.571428571
+733,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,4.3,Missing_val,0 days 00:19:19.571428571
+734,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,2.5,Missing_val,0 days 00:19:19.571428571
+735,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,5.7,Temporary Site,0 days 00:19:19.571428571
+736,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,2.8,Missing_val,0 days 00:19:19.571428571
+737,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,4.0,Missing_val,0 days 00:19:19.571428571
+738,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,5.5,Missing_val,0 days 00:19:19.571428571
+739,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,2.6,Missing_val,0 days 00:19:19.571428571
+740,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,2.1,Missing_val,0 days 00:19:19.571428571
+741,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,8.8,Missing_val,0 days 00:19:19.571428571
+742,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,4.4,Missing_val,0 days 00:19:19.571428571
+743,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,5.3,Missing_val,0 days 00:19:19.571428571
+744,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,13.0,Missing_val,0 days 00:19:19.571428571
+745,2016-09-01 11:51:00,2016-09-01 12:24:00,Business,Unknown Location,Islamabad,13.0,Missing_val,0 days 00:33:00
+746,2016-09-01 17:21:00,2016-09-01 17:36:00,Business,Islamabad,Unknown Location,10.6,Missing_val,0 days 00:15:00
+747,2016-09-01 18:49:00,2016-09-01 19:08:00,Business,Unknown Location,Unknown Location,2.2,Missing_val,0 days 00:19:00
+748,2016-09-02 11:37:00,2016-09-02 12:24:00,Business,Unknown Location,Islamabad,9.2,Missing_val,0 days 00:47:00
+749,2016-09-02 18:56:00,2016-09-02 19:37:00,Business,Unknown Location,Unknown Location,12.9,Missing_val,0 days 00:41:00
+750,2016-09-05 10:25:00,2016-09-05 10:44:00,Business,Unknown Location,R?walpindi,17.2,Missing_val,0 days 00:19:00
+751,2016-09-06 17:49:00,2016-09-06 17:49:00,Business,Unknown Location,Unknown Location,69.1,Missing_val,0 days 00:00:00
+752,2016-09-10 10:28:00,2016-09-10 10:45:00,Business,Unknown Location,Unknown Location,2.8,Missing_val,0 days 00:17:00
+753,2016-09-11 09:51:00,2016-09-11 09:55:00,Business,Unknown Location,Unknown Location,8.6,Missing_val,0 days 00:04:00
+754,2016-09-11 21:40:00,2016-09-11 21:42:00,Business,Unknown Location,Unknown Location,9.8,Missing_val,0 days 00:02:00
+755,2016-09-12 08:07:00,2016-09-12 08:12:00,Business,Unknown Location,Unknown Location,3.6,Missing_val,0 days 00:05:00
+756,2016-09-12 11:15:00,2016-09-12 11:24:00,Business,Unknown Location,Unknown Location,1.7,Missing_val,0 days 00:09:00
+757,2016-09-12 13:04:00,2016-09-12 13:44:00,Business,Unknown Location,Unknown Location,11.5,Missing_val,0 days 00:40:00
+758,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,0.7,Missing_val,0 days 00:19:19.571428571
+759,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,0.7,Missing_val,0 days 00:19:19.571428571
+760,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,0.9,Missing_val,0 days 00:19:19.571428571
+761,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,1.6,Missing_val,0 days 00:19:19.571428571
+762,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,9.4,Missing_val,0 days 00:19:19.571428571
+763,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,Unknown Location,18.2,Missing_val,0 days 00:19:19.571428571
+764,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,10.5,Missing_val,0 days 00:19:19.571428571
+765,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,5.7,Missing_val,0 days 00:19:19.571428571
+766,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,18.0,Missing_val,0 days 00:19:19.571428571
+767,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,18.3,Missing_val,0 days 00:19:19.571428571
+768,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,16.5,Missing_val,0 days 00:19:19.571428571
+769,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,R?walpindi,9.6,Missing_val,0 days 00:19:19.571428571
+770,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Karachi,Karachi,2.9,Missing_val,0 days 00:19:19.571428571
+771,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Karachi,Unknown Location,8.2,Missing_val,0 days 00:19:19.571428571
+772,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,2.4,Missing_val,0 days 00:19:19.571428571
+773,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.8,Missing_val,0 days 00:19:19.571428571
+774,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,9.8,Missing_val,0 days 00:19:19.571428571
+775,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,7.3,Missing_val,0 days 00:19:19.571428571
+776,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,195.6,Missing_val,0 days 00:19:19.571428571
+777,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,20.5,Missing_val,0 days 00:19:19.571428571
+778,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,12.6,Missing_val,0 days 00:19:19.571428571
+779,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,37.7,Missing_val,0 days 00:19:19.571428571
+780,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,16.7,Missing_val,0 days 00:19:19.571428571
+781,2016-10-03 17:09:00,2016-10-03 17:12:00,Business,Unknown Location,Islamabad,10.5,Missing_val,0 days 00:03:00
+782,2016-10-03 18:17:00,2016-10-03 18:34:00,Business,Islamabad,Islamabad,2.8,Missing_val,0 days 00:17:00
+783,2016-10-03 18:51:00,2016-10-03 19:01:00,Business,Islamabad,Islamabad,1.6,Missing_val,0 days 00:10:00
+784,2016-10-03 22:04:00,2016-10-03 22:33:00,Business,Islamabad,Unknown Location,12.7,Missing_val,0 days 00:29:00
+785,2016-10-04 09:50:00,2016-10-04 10:52:00,Business,Unknown Location,Unknown Location,28.6,Missing_val,0 days 01:02:00
+786,2016-10-04 12:17:00,2016-10-04 12:18:00,Business,Unknown Location,Unknown Location,15.1,Missing_val,0 days 00:01:00
+787,2016-10-06 08:49:00,2016-10-06 11:36:00,Business,Unknown Location,R?walpindi,17.9,Missing_val,0 days 02:47:00
+788,2016-10-06 17:23:00,2016-10-06 17:40:00,Business,R?walpindi,Unknown Location,112.6,Missing_val,0 days 00:17:00
+789,2016-10-06 18:37:00,2016-10-06 18:39:00,Business,Unknown Location,Unknown Location,18.4,Missing_val,0 days 00:02:00
+790,2016-10-06 19:46:00,2016-10-06 20:26:00,Business,Unknown Location,Unknown Location,13.8,Missing_val,0 days 00:40:00
+791,2016-10-07 10:56:00,2016-10-07 10:59:00,Business,Unknown Location,Lahore,33.2,Missing_val,0 days 00:03:00
+792,2016-10-07 11:27:00,2016-10-07 11:50:00,Business,Lahore,Lahore,2.6,Missing_val,0 days 00:23:00
+793,2016-10-07 13:52:00,2016-10-07 14:08:00,Business,Lahore,Unknown Location,5.8,Missing_val,0 days 00:16:00
+794,2016-10-07 14:29:00,2016-10-07 15:11:00,Business,Unknown Location,Lahore,8.3,Missing_val,0 days 00:42:00
+795,2016-10-07 15:47:00,2016-10-07 16:02:00,Business,Lahore,Lahore,2.4,Missing_val,0 days 00:15:00
+796,2016-10-07 18:08:00,2016-10-07 18:27:00,Business,Lahore,Lahore,3.1,Missing_val,0 days 00:19:00
+797,2016-10-07 18:33:00,2016-10-07 19:01:00,Business,Lahore,Lahore,6.1,Missing_val,0 days 00:28:00
+798,2016-10-08 15:03:00,2016-10-08 15:03:00,Business,Karachi,Karachi,3.6,Missing_val,0 days 00:00:00
+799,2016-10-08 18:15:00,2016-10-08 18:18:00,Business,Karachi,Unknown Location,8.0,Missing_val,0 days 00:03:00
+800,2016-10-09 14:04:00,2016-10-09 14:23:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,0 days 00:19:00
+801,2016-10-10 17:22:00,2016-10-10 17:28:00,Business,Islamabad,Islamabad,1.7,Missing_val,0 days 00:06:00
+802,2016-10-10 17:33:00,2016-10-10 18:13:00,Business,Islamabad,Unknown Location,9.5,Missing_val,0 days 00:40:00
+803,2016-10-11 01:27:00,2016-10-11 02:08:00,Business,Unknown Location,R?walpindi,17.1,Meeting,0 days 00:41:00
+804,2016-10-12 19:18:00,2016-10-12 19:21:00,Business,R?walpindi,Unknown Location,18.4,Missing_val,0 days 00:03:00
+805,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,9.8,Missing_val,0 days 00:19:19.571428571
+806,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,1.0,Missing_val,0 days 00:19:19.571428571
+807,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,0.7,Missing_val,0 days 00:19:19.571428571
+808,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,2.3,Missing_val,0 days 00:19:19.571428571
+809,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,10.9,Missing_val,0 days 00:19:19.571428571
+810,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,R?walpindi,12.7,Missing_val,0 days 00:19:19.571428571
+811,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,R?walpindi,Unknown Location,12.4,Missing_val,0 days 00:19:19.571428571
+812,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,3.8,Missing_val,0 days 00:19:19.571428571
+813,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,R?walpindi,17.0,Meeting,0 days 00:19:19.571428571
+814,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Morrisville,6.2,Missing_val,0 days 00:19:19.571428571
+815,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Missing_val,0 days 00:19:19.571428571
+816,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.5,Meeting,0 days 00:19:19.571428571
+817,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Morrisville,8.1,Missing_val,0 days 00:19:19.571428571
+818,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Missing_val,0 days 00:19:19.571428571
+819,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Parkway,2.1,Meeting,0 days 00:19:19.571428571
+820,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,4.3,Missing_val,0 days 00:19:19.571428571
+821,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:19:19.571428571
+822,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,20.6,Missing_val,0 days 00:19:19.571428571
+823,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,17.6,Missing_val,0 days 00:19:19.571428571
+824,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,5.6,Missing_val,0 days 00:19:19.571428571
+825,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Apex,3.3,Missing_val,0 days 00:19:19.571428571
+826,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Cary,5.3,Missing_val,0 days 00:19:19.571428571
+827,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Edgehill Farms,3.3,Missing_val,0 days 00:19:19.571428571
+828,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Edgehill Farms,Whitebridge,3.3,Missing_val,0 days 00:19:19.571428571
+829,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,7.9,Temporary Site,0 days 00:19:19.571428571
+830,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Oakland,Emeryville,13.0,Missing_val,0 days 00:19:19.571428571
+831,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Berkeley,3.0,Missing_val,0 days 00:19:19.571428571
+832,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Emeryville,3.0,Missing_val,0 days 00:19:19.571428571
+833,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Oakland,3.8,Missing_val,0 days 00:19:19.571428571
+834,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Oakland,San Francisco,9.5,Missing_val,0 days 00:19:19.571428571
+835,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,SOMISSPO,French Quarter,1.7,Missing_val,0 days 00:19:19.571428571
+836,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,San Francisco,Berkeley,10.8,Missing_val,0 days 00:19:19.571428571
+837,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,West Berkeley,North Berkeley Hills,4.1,Missing_val,0 days 00:19:19.571428571
+838,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,North Berkeley Hills,Southside,2.2,Missing_val,0 days 00:19:19.571428571
+839,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Emeryville,4.6,Missing_val,0 days 00:19:19.571428571
+840,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Berkeley,3.1,Missing_val,0 days 00:19:19.571428571
+841,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,San Jose,47.7,Missing_val,0 days 00:19:19.571428571
+842,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,San Jose,Emeryville,44.6,Missing_val,0 days 00:19:19.571428571
+843,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Oakland,13.2,Missing_val,0 days 00:19:19.571428571
+844,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,8.7,Missing_val,0 days 00:19:19.571428571
+845,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,17.2,Missing_val,0 days 00:19:19.571428571
+846,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,14.0,Missing_val,0 days 00:19:19.571428571
+847,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,28.1,Missing_val,0 days 00:19:19.571428571
+848,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,28.2,Missing_val,0 days 00:19:19.571428571
+849,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0 days 00:19:19.571428571
+850,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:19:19.571428571
+851,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,16.4,Missing_val,0 days 00:19:19.571428571
+852,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Morrisville,15.4,Missing_val,0 days 00:19:19.571428571
+853,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.2,Missing_val,0 days 00:19:19.571428571
+854,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,11.2,Missing_val,0 days 00:19:19.571428571
+855,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Eagle Rock,2.2,Missing_val,0 days 00:19:19.571428571
+856,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Eagle Rock,Cary,3.6,Missing_val,0 days 00:19:19.571428571
+857,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,0 days 00:19:19.571428571
+858,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Savon Height,Parkway,4.9,Missing_val,0 days 00:19:19.571428571
+859,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Parkway,Whitebridge,8.7,Errand/Supplies,0 days 00:19:19.571428571
+860,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Whitebridge,Parkway,2.1,Meeting,0 days 00:19:19.571428571
+861,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Parkway,Whitebridge,2.1,Missing_val,0 days 00:19:19.571428571
+862,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:19:19.571428571
+863,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Morrisville,5.9,Missing_val,0 days 00:19:19.571428571
+864,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Huntington Woods,Huntington Woods,12.1,Missing_val,0 days 00:19:19.571428571
+865,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Huntington Woods,Weston,3.9,Missing_val,0 days 00:19:19.571428571
+866,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,6.2,Missing_val,0 days 00:19:19.571428571
+867,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:19.571428571
+868,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,9.9,Meeting,0 days 00:19:19.571428571
+869,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Winston Salem,107.0,Meeting,0 days 00:19:19.571428571
+870,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Winston Salem,Asheville,133.6,Meeting,0 days 00:19:19.571428571
+871,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Asheville,Topton,91.8,Meeting,0 days 00:19:19.571428571
+872,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Topton,Hayesville,40.7,Meeting,0 days 00:19:19.571428571
+873,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Hayesville,Topton,75.7,Missing_val,0 days 00:19:19.571428571
+874,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Topton,Bryson City,29.8,Missing_val,0 days 00:19:19.571428571
+875,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Bryson City,Bryson City,16.3,Missing_val,0 days 00:19:19.571428571
+876,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Bryson City,Bryson City,6.5,Missing_val,0 days 00:19:19.571428571
+877,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Bryson City,Bryson City,6.3,Missing_val,0 days 00:19:19.571428571
+878,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Bryson City,Almond,6.6,Missing_val,0 days 00:19:19.571428571
+879,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Almond,Bryson City,15.2,Missing_val,0 days 00:19:19.571428571
+880,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Bryson City,Asheville,68.4,Missing_val,0 days 00:19:19.571428571
+881,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Asheville,Mebane,195.9,Missing_val,0 days 00:19:19.571428571
+882,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Mebane,Cary,45.2,Missing_val,0 days 00:19:19.571428571
+883,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.2,Missing_val,0 days 00:19:19.571428571
+884,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Raleigh,10.3,Missing_val,0 days 00:19:19.571428571
+885,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Cary,13.1,Missing_val,0 days 00:19:19.571428571
+886,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,0 days 00:19:19.571428571
+887,2016-11-01 11:50:00,2016-11-01 12:27:00,Business,Cary,Durham,16.5,Missing_val,0 days 00:37:00
+888,2016-11-01 16:29:00,2016-11-01 17:02:00,Business,Durham,Cary,12.8,Missing_val,0 days 00:33:00
+889,2016-11-01 17:35:00,2016-11-01 17:42:00,Business,Whitebridge,Whitebridge,1.2,Missing_val,0 days 00:07:00
+890,2016-11-01 19:14:00,2016-11-01 19:20:00,Business,Whitebridge,Whitebridge,1.0,Missing_val,0 days 00:06:00
+891,2016-11-01 19:59:00,2016-11-01 20:12:00,Business,Whitebridge,Whitebridge,4.1,Missing_val,0 days 00:13:00
+892,2016-11-01 20:41:00,2016-11-01 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,0 days 00:14:00
+893,2016-11-02 15:10:00,2016-11-02 15:18:00,Business,Whitebridge,Westpark Place,1.4,Missing_val,0 days 00:08:00
+894,2016-11-02 15:45:00,2016-11-02 15:52:00,Business,Westpark Place,Whitebridge,1.8,Missing_val,0 days 00:07:00
+895,2016-11-02 16:46:00,2016-11-02 17:11:00,Business,Cary,Morrisville,8.5,Meeting,0 days 00:25:00
+896,2016-11-02 17:34:00,2016-11-02 17:49:00,Business,Morrisville,Morrisville,5.0,Missing_val,0 days 00:15:00
+897,2016-11-02 17:53:00,2016-11-02 18:00:00,Business,Morrisville,Cary,3.8,Missing_val,0 days 00:07:00
+898,2016-11-03 11:28:00,2016-11-03 11:34:00,Business,Whitebridge,Hazelwood,2.5,Missing_val,0 days 00:06:00
+899,2016-11-03 12:43:00,2016-11-03 12:49:00,Business,Hazelwood,Whitebridge,2.4,Missing_val,0 days 00:06:00
+900,2016-11-03 13:42:00,2016-11-03 13:47:00,Business,Whitebridge,Westpark Place,1.4,Missing_val,0 days 00:05:00
+901,2016-11-03 14:13:00,2016-11-03 14:26:00,Business,Westpark Place,Whitebridge,1.8,Missing_val,0 days 00:13:00
+902,2016-11-03 18:51:00,2016-11-03 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0 days 00:17:00
+903,2016-11-03 22:46:00,2016-11-03 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:12:00
+904,2016-11-04 10:02:00,2016-11-04 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site,0 days 00:16:00
+905,2016-11-04 18:14:00,2016-11-04 18:21:00,Business,San Jose,Santa Clara,3.8,Missing_val,0 days 00:07:00
+906,2016-11-04 21:04:00,2016-11-04 21:20:00,Business,Agnew,Cory,4.3,Missing_val,0 days 00:16:00
+907,2016-11-04 22:12:00,2016-11-04 22:25:00,Business,Cory,Agnew,3.9,Missing_val,0 days 00:13:00
+908,2016-11-05 08:34:00,2016-11-05 08:43:00,Business,Agnew,Renaissance,2.2,Missing_val,0 days 00:09:00
+909,2016-11-05 17:29:00,2016-11-05 17:40:00,Business,Renaissance,Agnew,2.8,Missing_val,0 days 00:11:00
+910,2016-11-05 19:20:00,2016-11-05 19:28:00,Business,Agnew,Agnew,2.2,Missing_val,0 days 00:08:00
+911,2016-11-06 10:50:00,2016-11-06 11:04:00,Business,Agnew,Renaissance,2.4,Missing_val,0 days 00:14:00
+912,2016-11-06 16:05:00,2016-11-06 16:22:00,Business,Renaissance,Agnew,2.8,Meeting,0 days 00:17:00
+913,2016-11-06 16:27:00,2016-11-06 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,0 days 01:01:00
+914,2016-11-06 19:04:00,2016-11-06 19:12:00,Business,Downtown,West Berkeley,1.8,Missing_val,0 days 00:08:00
+915,2016-11-06 20:06:00,2016-11-06 20:21:00,Business,West Berkeley,Central,3.3,Missing_val,0 days 00:15:00
+916,2016-11-07 12:28:00,2016-11-07 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices,0 days 00:29:00
+917,2016-11-07 19:17:00,2016-11-07 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices,0 days 00:40:00
+918,2016-11-08 10:29:00,2016-11-08 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices,0 days 00:28:00
+919,2016-11-08 12:16:00,2016-11-08 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting,0 days 00:33:00
+920,2016-11-08 13:41:00,2016-11-08 14:01:00,Business,Berkeley,Emeryville,3.6,Missing_val,0 days 00:20:00
+921,2016-11-08 16:21:00,2016-11-08 16:34:00,Business,Emeryville,Berkeley,3.0,Missing_val,0 days 00:13:00
+922,2016-11-09 13:08:00,2016-11-09 13:41:00,Business,Berkeley,San Francisco,11.4,Missing_val,0 days 00:33:00
+923,2016-11-09 15:58:00,2016-11-09 16:04:00,Business,NOMA,Downtown,0.9,Missing_val,0 days 00:06:00
+924,2016-11-09 17:31:00,2016-11-09 18:03:00,Business,Downtown,Sunnyside,6.2,Missing_val,0 days 00:32:00
+925,2016-11-09 18:09:00,2016-11-09 18:14:00,Business,Sunnyside,Ingleside,0.7,Missing_val,0 days 00:05:00
+926,2016-11-09 18:21:00,2016-11-09 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting,0 days 00:14:00
+927,2016-11-09 18:40:00,2016-11-09 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit,0 days 00:37:00
+928,2016-11-09 20:52:00,2016-11-09 21:02:00,Business,Oakland,Berkeley,2.6,Missing_val,0 days 00:10:00
+929,2016-11-09 21:56:00,2016-11-09 22:02:00,Business,Central,Central,1.1,Missing_val,0 days 00:06:00
+930,2016-11-10 09:46:00,2016-11-10 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site,0 days 00:29:00
+931,2016-11-10 10:20:00,2016-11-10 10:31:00,Business,Tenderloin,SOMISSPO,1.2,Missing_val,0 days 00:11:00
+932,2016-11-10 14:57:00,2016-11-10 15:07:00,Business,SOMISSPO,Tenderloin,1.1,Missing_val,0 days 00:10:00
+933,2016-11-10 15:17:00,2016-11-10 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site,0 days 00:05:00
+934,2016-11-10 15:30:00,2016-11-10 15:53:00,Business,Oakland,Berkeley,6.0,Meeting,0 days 00:23:00
+935,2016-11-10 19:18:00,2016-11-10 19:21:00,Business,West Berkeley,Central,0.8,Missing_val,0 days 00:03:00
+936,2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit,0 days 00:48:00
+937,2016-11-11 12:58:00,2016-11-11 13:13:00,Business,Menlo Park,Palo Alto,4.0,Missing_val,0 days 00:15:00
+938,2016-11-11 14:20:00,2016-11-11 14:32:00,Business,Palo Alto,Menlo Park,2.5,Missing_val,0 days 00:12:00
+939,2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit,0 days 01:07:00
+940,2016-11-11 18:30:00,2016-11-11 18:43:00,Business,Central,College Avenue,2.9,Missing_val,0 days 00:13:00
+941,2016-11-11 21:08:00,2016-11-11 21:18:00,Business,College Avenue,Central,2.6,Missing_val,0 days 00:10:00
+942,2016-11-12 10:32:00,2016-11-12 10:52:00,Business,Central,South,2.3,Missing_val,0 days 00:20:00
+943,2016-11-12 10:55:00,2016-11-12 11:25:00,Business,South,Downtown,6.4,Missing_val,0 days 00:30:00
+944,2016-11-12 13:07:00,2016-11-12 13:15:00,Business,Downtown,Central,1.4,Missing_val,0 days 00:08:00
+945,2016-11-12 13:46:00,2016-11-12 13:50:00,Business,Central,West Berkeley,0.6,Missing_val,0 days 00:04:00
+946,2016-11-12 14:22:00,2016-11-12 14:53:00,Business,West Berkeley,South,5.9,Meeting,0 days 00:31:00
+947,2016-11-12 15:14:00,2016-11-12 15:21:00,Business,South,Southwest Berkeley,0.8,Missing_val,0 days 00:07:00
+948,2016-11-12 15:25:00,2016-11-12 15:36:00,Business,Berkeley,Emeryville,1.3,Missing_val,0 days 00:11:00
+949,2016-11-12 15:40:00,2016-11-12 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,0 days 00:19:00
+950,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Central,Central,2.3,Missing_val,0 days 00:19:19.571428571
+951,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Central,Central,2.6,Missing_val,0 days 00:19:19.571428571
+952,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Central,Southside,1.9,Missing_val,0 days 00:19:19.571428571
+953,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Southside,West Berkeley,2.1,Missing_val,0 days 00:19:19.571428571
+954,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,West Berkeley,Southside,4.0,Meeting,0 days 00:19:19.571428571
+955,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Southside,South Berkeley,0.9,Missing_val,0 days 00:19:19.571428571
+956,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,South Berkeley,Southside,0.9,Missing_val,0 days 00:19:19.571428571
+957,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Southside,Central,2.4,Missing_val,0 days 00:19:19.571428571
+958,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Central,Southside,1.9,Missing_val,0 days 00:19:19.571428571
+959,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Southside,Central,1.9,Missing_val,0 days 00:19:19.571428571
+960,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Mountain View,44.6,Customer Visit,0 days 00:19:19.571428571
+961,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Mountain View,Berkeley,43.6,Customer Visit,0 days 00:19:19.571428571
+962,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Emeryville,2.5,Missing_val,0 days 00:19:19.571428571
+963,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,0 days 00:19:19.571428571
+964,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Oakland,5.1,Missing_val,0 days 00:19:19.571428571
+965,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Oakland,San Francisco,9.7,Temporary Site,0 days 00:19:19.571428571
+966,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,San Francisco,Berkeley,11.8,Temporary Site,0 days 00:19:19.571428571
+967,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,El Cerrito,2.3,Temporary Site,0 days 00:19:19.571428571
+968,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,0 days 00:19:19.571428571
+969,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Berkeley,Oakland,16.3,Customer Visit,0 days 00:19:19.571428571
+970,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0 days 00:19:19.571428571
+971,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,5.2,Meal/Entertain,0 days 00:19:19.571428571
+972,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Krendle Woods,Whitebridge,6.1,Meeting,0 days 00:19:19.571428571
+973,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.3,Meeting,0 days 00:19:19.571428571
+974,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,10.5,Meeting,0 days 00:19:19.571428571
+975,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.5,Missing_val,0 days 00:19:19.571428571
+976,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.8,Missing_val,0 days 00:19:19.571428571
+977,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,5.4,Errand/Supplies,0 days 00:19:19.571428571
+978,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Cary,5.4,Customer Visit,0 days 00:19:19.571428571
+979,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,39.2,Between Offices,0 days 00:19:19.571428571
+980,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,6.4,Customer Visit,0 days 00:19:19.571428571
+981,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,2.7,Meeting,0 days 00:19:19.571428571
+982,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,18.5,Errand/Supplies,0 days 00:19:19.571428571
+983,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,2.5,Meal/Entertain,0 days 00:19:19.571428571
+984,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,2.1,Meal/Entertain,0 days 00:19:19.571428571
+985,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Unknown Location,6.7,Errand/Supplies,0 days 00:19:19.571428571
+986,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Morrisville,3.5,Meal/Entertain,0 days 00:19:19.571428571
+987,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.4,Errand/Supplies,0 days 00:19:19.571428571
+988,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,5.5,Meeting,0 days 00:19:19.571428571
+989,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,4.1,Meeting,0 days 00:19:19.571428571
+990,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,12.7,Customer Visit,0 days 00:19:19.571428571
+991,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:19:19.571428571
+992,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.5,Customer Visit,0 days 00:19:19.571428571
+993,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,5.9,Meal/Entertain,0 days 00:19:19.571428571
+994,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.9,Missing_val,0 days 00:19:19.571428571
+995,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,3.3,Missing_val,0 days 00:19:19.571428571
+996,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.3,Missing_val,0 days 00:19:19.571428571
+997,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Durham,10.3,Meeting,0 days 00:19:19.571428571
+998,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Durham,Cary,11.1,Meeting,0 days 00:19:19.571428571
+999,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,1.4,Missing_val,0 days 00:19:19.571428571
+1000,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Apex,5.1,Meeting,0 days 00:19:19.571428571
+1001,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Apex,Holly Springs,9.0,Meeting,0 days 00:19:19.571428571
+1002,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Holly Springs,Cary,13.3,Between Offices,0 days 00:19:19.571428571
+1003,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,2.5,Errand/Supplies,0 days 00:19:19.571428571
+1004,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0 days 00:19:19.571428571
+1005,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,2.9,Missing_val,0 days 00:19:19.571428571
+1006,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Raleigh,8.5,Customer Visit,0 days 00:19:19.571428571
+1007,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Raleigh,Morrisville,6.7,Temporary Site,0 days 00:19:19.571428571
+1008,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Missing_val,0 days 00:19:19.571428571
+1009,2016-12-01 07:44:00,2016-12-01 07:59:00,Business,Cary,Cary,5.5,Meeting,0 days 00:15:00
+1010,2016-12-01 08:37:00,2016-12-01 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies,0 days 00:16:00
+1011,2016-12-01 18:00:00,2016-12-01 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,0 days 00:12:00
+1012,2016-12-01 20:36:00,2016-12-01 20:46:00,Business,Morrisville,Cary,2.9,Customer Visit,0 days 00:10:00
+1013,2016-12-02 12:12:00,2016-12-02 12:23:00,Business,Cary,Apex,5.1,Meal/Entertain,0 days 00:11:00
+1014,2016-12-02 13:07:00,2016-12-02 13:22:00,Business,Apex,Cary,5.3,Customer Visit,0 days 00:15:00
+1015,2016-12-02 20:41:00,2016-12-02 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0 days 00:07:00
+1016,2016-12-02 22:59:00,2016-12-02 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit,0 days 00:08:00
+1017,2016-12-03 18:35:00,2016-12-03 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,0 days 00:21:00
+1018,2016-12-03 19:08:00,2016-12-03 19:15:00,Business,Wake Co.,Morrisville,1.8,Missing_val,0 days 00:07:00
+1019,2016-12-03 20:31:00,2016-12-03 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit,0 days 00:10:00
+1020,2016-12-04 18:56:00,2016-12-04 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain,0 days 00:07:00
+1021,2016-12-04 20:23:00,2016-12-04 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit,0 days 00:11:00
+1022,2016-12-05 18:04:00,2016-12-05 18:17:00,Business,Cary,Cary,4.1,Missing_val,0 days 00:13:00
+1023,2016-12-05 19:22:00,2016-12-05 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain,0 days 00:15:00
+1024,2016-12-07 12:03:00,2016-12-07 12:32:00,Business,Cary,Cary,6.6,Meeting,0 days 00:29:00
+1025,2016-12-07 12:35:00,2016-12-07 12:46:00,Business,Cary,Cary,4.0,Meeting,0 days 00:11:00
+1026,2016-12-07 19:53:00,2016-12-07 20:13:00,Business,Cary,Cary,7.0,Customer Visit,0 days 00:20:00
+1027,2016-12-07 21:13:00,2016-12-07 21:50:00,Business,Cary,Cary,6.9,Meal/Entertain,0 days 00:37:00
+1028,2016-12-08 14:19:00,2016-12-08 14:32:00,Business,Cary,Cary,3.4,Errand/Supplies,0 days 00:13:00
+1029,2016-12-08 14:53:00,2016-12-08 15:02:00,Business,Cary,Cary,3.4,Errand/Supplies,0 days 00:09:00
+1030,2016-12-08 19:22:00,2016-12-08 19:27:00,Business,Cary,Cary,2.0,Meeting,0 days 00:05:00
+1031,2016-12-08 21:26:00,2016-12-08 21:31:00,Business,Cary,Cary,2.0,Errand/Supplies,0 days 00:05:00
+1032,2016-12-09 12:09:00,2016-12-09 12:24:00,Business,Cary,Apex,5.1,Errand/Supplies,0 days 00:15:00
+1033,2016-12-09 13:15:00,2016-12-09 13:43:00,Business,Apex,Cary,8.8,Temporary Site,0 days 00:28:00
+1034,2016-12-09 20:11:00,2016-12-09 20:34:00,Business,Cary,Cary,5.6,Meeting,0 days 00:23:00
+1035,2016-12-09 22:03:00,2016-12-09 22:57:00,Business,Cary,Cary,18.9,Customer Visit,0 days 00:54:00
+1036,2016-12-10 12:43:00,2016-12-10 13:16:00,Business,Cary,Fuquay-Varina,15.6,Meeting,0 days 00:33:00
+1037,2016-12-10 14:42:00,2016-12-10 15:18:00,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,0 days 00:36:00
+1038,2016-12-10 18:17:00,2016-12-10 18:27:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:10:00
+1039,2016-12-10 22:09:00,2016-12-10 22:21:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:12:00
+1040,2016-12-11 16:06:00,2016-12-11 16:16:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:10:00
+1041,2016-12-11 19:05:00,2016-12-11 19:15:00,Business,Morrisville,Cary,4.8,Errand/Supplies,0 days 00:10:00
+1042,2016-12-11 21:48:00,2016-12-11 21:56:00,Business,Cary,Cary,2.1,Errand/Supplies,0 days 00:08:00
+1043,2016-12-12 13:22:00,2016-12-12 13:32:00,Business,Cary,Cary,3.1,Errand/Supplies,0 days 00:10:00
+1044,2016-12-12 13:36:00,2016-12-12 13:51:00,Business,Cary,Apex,4.4,Meal/Entertain,0 days 00:15:00
+1045,2016-12-12 14:26:00,2016-12-12 14:39:00,Business,Apex,Cary,4.7,Customer Visit,0 days 00:13:00
+1046,2016-12-12 17:51:00,2016-12-12 18:01:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:10:00
+1047,2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit,0 days 00:09:00
+1048,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,4.2,Errand/Supplies,0 days 00:19:19.571428571
+1049,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,4.1,Meal/Entertain,0 days 00:19:19.571428571
+1050,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,3.4,Missing_val,0 days 00:19:19.571428571
+1051,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Cary,3.3,Missing_val,0 days 00:19:19.571428571
+1052,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:19:19.571428571
+1053,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:19:19.571428571
+1054,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Cary,Morrisville,10.6,Meeting,0 days 00:19:19.571428571
+1055,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,4.8,Airport/Travel,0 days 00:19:19.571428571
+1056,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.3,Temporary Site,0 days 00:19:19.571428571
+1057,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies,0 days 00:19:19.571428571
+1058,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies,0 days 00:19:19.571428571
+1059,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,9.2,Missing_val,0 days 00:19:19.571428571
+1060,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,7.7,Errand/Supplies,0 days 00:19:19.571428571
+1061,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Rawalpindi,5.9,Temporary Site,0 days 00:19:19.571428571
+1062,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies,0 days 00:19:19.571428571
+1063,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,1.3,Missing_val,0 days 00:19:19.571428571
+1064,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,2.5,Missing_val,0 days 00:19:19.571428571
+1065,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.3,Missing_val,0 days 00:19:19.571428571
+1066,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.4,Missing_val,0 days 00:19:19.571428571
+1067,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Rawalpindi,10.2,Customer Visit,0 days 00:19:19.571428571
+1068,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Rawalpindi,Islamabad,7.2,Customer Visit,0 days 00:19:19.571428571
+1069,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,2.2,Missing_val,0 days 00:19:19.571428571
+1070,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,11.0,Meeting,0 days 00:19:19.571428571
+1071,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Rawalpindi,12.0,Missing_val,0 days 00:19:19.571428571
+1072,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,0 days 00:19:19.571428571
+1073,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Rawalpindi,Unknown Location,19.4,Meeting,0 days 00:19:19.571428571
+1074,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies,0 days 00:19:19.571428571
+1075,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,5.7,Temporary Site,0 days 00:19:19.571428571
+1076,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,1.8,Errand/Supplies,0 days 00:19:19.571428571
+1077,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,1.4,Errand/Supplies,0 days 00:19:19.571428571
+1078,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,10.3,Customer Visit,0 days 00:19:19.571428571
+1079,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,11.5,Meeting,0 days 00:19:19.571428571
+1080,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,4.9,Errand/Supplies,0 days 00:19:19.571428571
+1081,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,3.5,Meal/Entertain,0 days 00:19:19.571428571
+1082,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,16.2,Meeting,0 days 00:19:19.571428571
+1083,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,2.0,Errand/Supplies,0 days 00:19:19.571428571
+1084,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Islamabad,2.1,Errand/Supplies,0 days 00:19:19.571428571
+1085,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Islamabad,2.1,Meeting,0 days 00:19:19.571428571
+1086,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Islamabad,Unknown Location,7.2,Customer Visit,0 days 00:19:19.571428571
+1087,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Rawalpindi,12.0,Meeting,0 days 00:19:19.571428571
+1088,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Rawalpindi,Unknown Location,103.0,Meeting,0 days 00:19:19.571428571
+1089,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,32.3,Meeting,0 days 00:19:19.571428571
+1090,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,5.3,Customer Visit,0 days 00:19:19.571428571
+1091,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,11.6,Meeting,0 days 00:19:19.571428571
+1092,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,23.2,Meeting,0 days 00:19:19.571428571
+1093,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,0 days 00:19:19.571428571
+1094,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,12.3,Temporary Site,0 days 00:19:19.571428571
+1095,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,14.0,Meeting,0 days 00:19:19.571428571
+1096,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,2.1,Meal/Entertain,0 days 00:19:19.571428571
+1097,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,2.1,Customer Visit,0 days 00:19:19.571428571
+1098,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,3.0,Meeting,0 days 00:19:19.571428571
+1099,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,6.2,Meeting,0 days 00:19:19.571428571
+1100,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,9.6,Meeting,0 days 00:19:19.571428571
+1101,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies,0 days 00:19:19.571428571
+1102,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,7.1,Meal/Entertain,0 days 00:19:19.571428571
+1103,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,6.3,Meal/Entertain,0 days 00:19:19.571428571
+1104,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Lahore,10.7,Meal/Entertain,0 days 00:19:19.571428571
+1105,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,5.3,Meal/Entertain,0 days 00:19:19.571428571
+1106,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,1.6,Errand/Supplies,0 days 00:19:19.571428571
+1107,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,3.6,Errand/Supplies,0 days 00:19:19.571428571
+1108,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,1.7,Errand/Supplies,0 days 00:19:19.571428571
+1109,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,2.9,Meal/Entertain,0 days 00:19:19.571428571
+1110,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,0.6,Errand/Supplies,0 days 00:19:19.571428571
+1111,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,0.6,Errand/Supplies,0 days 00:19:19.571428571
+1112,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,2.3,Meal/Entertain,0 days 00:19:19.571428571
+1113,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,2.3,Meal/Entertain,0 days 00:19:19.571428571
+1114,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,3.2,Meal/Entertain,0 days 00:19:19.571428571
+1115,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,6.2,Customer Visit,0 days 00:19:19.571428571
+1116,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,7.7,Customer Visit,0 days 00:19:19.571428571
+1117,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Lahore,3.8,Customer Visit,0 days 00:19:19.571428571
+1118,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Lahore,Unknown Location,7.9,Meeting,0 days 00:19:19.571428571
+1119,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,4.9,Temporary Site,0 days 00:19:19.571428571
+1120,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,5.0,Meal/Entertain,0 days 00:19:19.571428571
+1121,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,0.6,Meal/Entertain,0 days 00:19:19.571428571
+1122,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,3.1,Customer Visit,0 days 00:19:19.571428571
+1123,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Kar?chi,7.9,Meeting,0 days 00:19:19.571428571
+1124,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,5.5,Customer Visit,0 days 00:19:19.571428571
+1125,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,10.3,Meal/Entertain,0 days 00:19:19.571428571
+1126,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Kar?chi,10.4,Errand/Supplies,0 days 00:19:19.571428571
+1127,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,2.0,Errand/Supplies,0 days 00:19:19.571428571
+1128,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,8.5,Meal/Entertain,0 days 00:19:19.571428571
+1129,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Kar?chi,4.4,Errand/Supplies,0 days 00:19:19.571428571
+1130,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies,0 days 00:19:19.571428571
+1131,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,5.1,Errand/Supplies,0 days 00:19:19.571428571
+1132,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,3.8,Errand/Supplies,0 days 00:19:19.571428571
+1133,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,11.6,Meal/Entertain,0 days 00:19:19.571428571
+1134,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Kar?chi,11.9,Meal/Entertain,0 days 00:19:19.571428571
+1135,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,1.4,Errand/Supplies,0 days 00:19:19.571428571
+1136,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,1.1,Errand/Supplies,0 days 00:19:19.571428571
+1137,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,4.1,Airport/Travel,0 days 00:19:19.571428571
+1138,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,6.1,Between Offices,0 days 00:19:19.571428571
+1139,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,1.3,Errand/Supplies,0 days 00:19:19.571428571
+1140,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,3.0,Meal/Entertain,0 days 00:19:19.571428571
+1141,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Kar?chi,4.1,Customer Visit,0 days 00:19:19.571428571
+1142,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,7.2,Meeting,0 days 00:19:19.571428571
+1143,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,6.4,Missing_val,0 days 00:19:19.571428571
+1144,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Kar?chi,12.9,Meeting,0 days 00:19:19.571428571
+1145,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,2.8,Errand/Supplies,0 days 00:19:19.571428571
+1146,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,2.9,Errand/Supplies,0 days 00:19:19.571428571
+1147,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,4.6,Errand/Supplies,0 days 00:19:19.571428571
+1148,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,4.6,Meeting,0 days 00:19:19.571428571
+1149,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,0.8,Customer Visit,0 days 00:19:19.571428571
+1150,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Kar?chi,0.7,Meeting,0 days 00:19:19.571428571
+1151,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Kar?chi,Unknown Location,3.9,Temporary Site,0 days 00:19:19.571428571
+1152,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Unknown Location,Unknown Location,16.2,Meeting,0 days 00:19:19.571428571
+1153,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Katunayake,Gampaha,6.4,Temporary Site,0 days 00:19:19.571428571
+1154,2025-01-01 00:00:00,2025-01-01 01:00:00,Business,Gampaha,Ilukwatta,48.2,Temporary Site,0 days 00:19:19.571428571
+1155,2025-01-01 00:00:00,2025-01-01 01:00:00,,,,12204.7,Missing_val,0 days 00:19:19.571428571
